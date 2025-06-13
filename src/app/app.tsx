@@ -29,7 +29,7 @@ const App: React.FC = () => {
   >("all_questions");
 
   // Local storage specific states
-  const [wrongAnswerIds, setWrongAnswerIds] = useState<string[]>([]);
+  const [wrongAnswerIds, setWrongAnswerIds] = useState<number[]>([]);
   const [loadingWrongAnswers, setLoadingWrongAnswers] = useState<boolean>(true);
   const [answerFeedbackMessage, setAnswerFeedbackMessage] = useState<
     string | null
@@ -54,7 +54,7 @@ const App: React.FC = () => {
   }, []);
 
   // Function to save wrong answer IDs to localStorage
-  const saveWrongAnswerIds = useCallback((ids: string[]) => {
+  const saveWrongAnswerIds = useCallback((ids: number[]) => {
     try {
       localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(ids));
     } catch (error) {

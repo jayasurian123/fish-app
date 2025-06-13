@@ -8,7 +8,7 @@ export type TQuestion = {
 
 // Interface to store user's answer for a question
 export type TUserAnswer = {
-  questionId: string;
+  questionId: number;
   questionText: string;
   selectedOption: string;
   correctOption: string;
