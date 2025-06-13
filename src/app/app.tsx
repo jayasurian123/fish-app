@@ -283,7 +283,7 @@ const App: React.FC = () => {
   if (!currentQuestion) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-500 to-purple-600 p-4 font-sans text-white text-2xl">
-        Error: No current question to display for this session.
+        No more questions available. Please restart the quiz!
       </div>
     );
   }
