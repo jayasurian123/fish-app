@@ -509,4 +509,138 @@ export const quizQuestions: TQuestion[] = [
     option2: "Sie finden zu wenig Futter",
     option3: "Sie werden zu stark beangelt",
   },
+  {
+    id: 70,
+    question: "Wie kann ich Zanderbestände ohne Besatz in einem See fördern?",
+    option1: "Einbringen von Zanderlaichnestern",
+    option2: "Füttern mit Fischabfällen.",
+    option3: "Anbringen von künstlichen Lichtquellen an den Laichplätzen.",
+  },
+  {
+    id: 71,
+    question: "Welche Naturnahrung bevorzugt der Karpfen?",
+    option1: "Larven der Zuckmücke",
+    option2: "Fischbrut",
+    option3: "Anflugnahrung",
+  },
+  {
+    id: 72,
+    question: "Wo fressen Fische mit unterständigem Maul vorwiegend?",
+    option1: "Am Grund",
+    option2: "An der Oberfläche",
+    option3: "Im Freiwasser",
+  },
+  {
+    id: 73,
+    question: "Welche Fischnährtiere leben in der Bodenzone?",
+    option1: "Larven der Roten Zuckmücke",
+    option2: "Wasserflöhe (Daphnien)",
+    option3: "Hüpferlinge (Copepoden)",
+  },
+  {
+    id: 74,
+    question: "Fischbrut ernährt sich vorwiegend...",
+    option1: "von tierischem Plankton.",
+    option2: "von kleinen Schnecken und Muscheln.",
+    option3: "von am Boden lebenden Nährtieren",
+  },
+  {
+    id: 75,
+    question: "Was wird auch als Sprock bezeichnet?",
+    option1: "Köcherfliegenlarven",
+    option2: "Libellenlarven",
+    option3: "Eintagsfliegenlarven",
+  },
+  {
+    id: 76,
+    question: "Wann benötigt ein Fisch mehr Sauerstoff?",
+    option1: "Bei hoher Wassertemperatur",
+    option2: "Bei niedriger Wassertemperatur",
+    option3: "Er verbraucht immer gleich viel Sauerstoff",
+  },
+  {
+    id: 77,
+    question:
+      'Wie entstehen nach heutigem Erkenntnisstand die Aalformen "Breitkopf" und "Spitzkopf"?',
+    option1: "Durch das vorhandene Nahrungsangebot im Gewässer",
+    option2: "Durch unterschiedliche Laichplätze",
+    option3: "Durch spezielle Erbfaktoren",
+  },
+  {
+    id: 78,
+    question: "Welche der Fischarten ernährt sich ausschließlich von Plankton?",
+    option1: "Kleine Maräne",
+    option2: "Grundling",
+    option3: "Karpfen",
+  },
+  {
+    id: 79,
+    question:
+      "Bei welcher Wassertemperatur ist der Karpfen am fressfreudigsten?",
+    option1: "Bei 20-25 Grad Celsius",
+    option2: "Bei 12–15 Grad Celsius",
+    option3: "Bei 8–12 Grad Celsius",
+  },
+  {
+    id: 80,
+    question:
+      "Warum haben gute Aalgewässer oftmals einen schlechten Krebsbestand?",
+    option1: "Der Aal frisst Krebse.",
+    option2: "Der Aal bevorzugt die gleiche Nahrung wie der Krebs",
+    option3: "Der Aal ist der Überträger der Krebspest.",
+  },
+  {
+    id: 81,
+    question:
+      'Welche der Fischarten neigen bei Massenaufkommen zur "Verbuttung"? (Kleinwüchsigkeit mit Laichreife)',
+    option1: "Karausche",
+    option2: "Zander",
+    option3: "Forelle",
+  },
+  {
+    id: 82,
+    question: "Was ist Plankton?",
+    option1:
+      "Die Gesamtheit der im Freiwasserraum lebenden mit der Wasserbewegung passiv treibenden Organsysteme",
+    option2: "Die Gesamtheit der Schwimmblattwasserpflan zen eines Gewässers",
+    option3:
+      "Die Gesamtheit der Zuckmückenlarven, Gelbrandkäfer und Libellenlarven eines Gewässers",
+  },
+  {
+    id: 83,
+    question: "Welche der Fischarten benötigen kühleres Wasser?",
+    option1: "Forelle, Bachsaibling",
+    option2: "Schleie, Aal",
+    option3: "Karpfen, Plötze",
+  },
+  {
+    id: 84,
+    question:
+      "Welche der Fischarten benötigen einen hohen Sauerstoffgehalt im Wasser?",
+    option1: "Forelle, Bachsaibling",
+    option2: "Plötze, Aal",
+    option3: "Karpfen, Schleie",
+  },
+  {
+    id: 85,
+    question: "Welche Fische nehmen vorwiegend Oberflächennahrung auf?",
+    option1: "Fische mit oberständigem Maul",
+    option2: "Fische mit endständigem Maul",
+    option3: "Fische mit unterständigem Maul",
+  },
+  {
+    id: 86,
+    question: "Die Entwicklung der Fischeier des Karpfens ...",
+    option1: "verkürzt sich mit steigender Temperatur im Toleranzbereich.",
+    option2: "verkürzt sich mit sinkender Temperatur im Toleranzbereich",
+    option3:
+      "hängt aufgrund des fehlenden Temperaturempfindens der Fischlarven nicht von der Temperatur ab.",
+  },
+  {
+    id: 87,
+    question: "Welche der Fischarten frisst oftmals Wasserpflanzen?",
+    option1: "Rotfeder",
+    option2: "Meerforelle",
+    option3: "Kaulbarsch",
+  },
 ];
