@@ -886,4 +886,379 @@ export const quizQuestions: TQuestion[] = [
     option2: "Signalkrebs",
     option3: "Sumpfkrebs",
   },
+  {
+    id: 121,
+    question: "Welches der Gewässer ist als sauerstoffreich einzustufen?",
+    option1: "Ein schnell fließender, kühler und klarer Bach",
+    option2: "Ein Tümpel",
+    option3: "Ein trüber See",
+  },
+  {
+    id: 122,
+    question:
+      "Moorige Gewässer sind in der Regel artenarm. Warum finden hier nu wenige Pflanzen- und Tierarten ihren Lebensraum?",
+    option1: "Das Wasser ist zu sauer.",
+    option2: "Das Wasser ist stark alkalisch",
+    option3: "Die Gewässer sind meist sehr flach.",
+  },
+  {
+    id: 123,
+    question:
+      "Welche Teile von Unterwasserpflanzen sind für die Sauerstofferzeugung von entscheidender Bedeutung?",
+    option1: "Die grünen Blätter",
+    option2: "Die Wurzeln",
+    option3: "Die Stiele",
+  },
+  {
+    id: 124,
+    question: "Verbrauchen Unterwasserpflanzen im Dunkeln Sauerstoff?",
+    option1: "Ja",
+    option2: "Nein",
+    option3: "Ja, aber nur bei Wassertemperaturen höher als 20 Grad Celsius.",
+  },
+  {
+    id: 125,
+    question:
+      "In tiefen Seen kann das Licht den Grund nicht mehr erreichen. Wachsen dort Laichkräuter?",
+    option1: "Nein, zum Wachstum ist Licht notwendig",
+    option2: "Ja, in sehr hoher Anzahl",
+    option3: "Nein, es fehlen die Nährstoffe",
+  },
+  {
+    id: 126,
+    question:
+      "Wie wird die vom Licht nicht erreichbare und von Pflanzen nicht besiedelte Gewässerzone bezeichnet?",
+    option1: "Tiefenzone (Bodenzone)",
+    option2: "Krautzone",
+    option3: "Freiwasserzone",
+  },
+  {
+    id: 127,
+    question:
+      "Der Dorfteich kann leicht mit Schwimmblattpflanzen mit einer Größe von wenigen Millimetern zuwachsen. Es ist die ...?",
+    option1: "Wasserlinse",
+    option2: "Kugelalge Volvox",
+    option3: "Teichrose",
+  },
+  {
+    id: 128,
+    question:
+      "Welche der Larven baut sich einen schützenden Behälter aus Pflanzenresten?",
+    option1: "Die Larve der Köcherfliege",
+    option2: "Die Larve der Libelle",
+    option3: "Die Larve des Gelbrandkäfers",
+  },
+  {
+    id: 129,
+    question: "Welche Antwort ist richtig?",
+    option1:
+      "Die Artenvielfalt der Fische nimmt von der Quelle zur Mündung zu.",
+    option2: "Die Artenvielfalt ist von der Quelle zur Mündung gleich.",
+    option3: "Die Artenvielfalt nimmt von der Quelle zur Mündung ab.",
+  },
+  {
+    id: 130,
+    question:
+      "Wodurch wird die Entwicklung von pflanzlichem Plankton besonders gefördert?",
+    option1: "Durch Phosphorverbindungen",
+    option2: "Durch starke Strömung",
+    option3: "Durch große Wassertiefe",
+  },
+  {
+    id: 131,
+    question: "Was ist ein Teich?",
+    option1:
+      "Ein ablassbares und gegen den Fischwechsel absperrbares, künstlich angelegtes Gewässer",
+    option2: "Eine natürlich flache und kleinee See",
+    option3: "Ein verlandeter Altarm",
+  },
+  {
+    id: 132,
+    question:
+      "Welche der Insektenlarven ernährt sich auch von kleinen Fischen?",
+    option1: "Gelbrandkäferlarve",
+    option2: "Kriebelmückenlarve",
+    option3: "Zuckmückenlarve",
+  },
+  {
+    id: 133,
+    question:
+      "Hat die Gestalt des Gewässergrundes fischereibiologische Bedeutung?",
+    option1:
+      "Ja, da ein unregelmäßiger Untergrund den bodenbesiedelnden Lebewesen vielfältige Entwicklungsmöglichkeiten bietet",
+    option2: "Nein",
+    option3:
+      "Ja, da ein unregelmäßiger Bodengrund vor allem Parasiten geeigneten Unterschlupf bietet",
+  },
+  {
+    id: 134,
+    question:
+      "Warum bildet sich in stehenden Gewässern eine Temperaturschichtung?",
+    option1:
+      "Weil das erwärmte Oberflächenwasser leichter als kälteres Wasser ist.",
+    option2: "Weil das Tiefenwasser durch Erdwärme aufgeheizt wird.",
+    option3: "Weil das erwärmte Wasser schwerer als kälteres Wasser ist",
+  },
+  {
+    id: 135,
+    question: "Was ist ein Altarm?",
+    option1: "Ein ehemaliges Flussbett",
+    option2: "Ein Seebereich mit sauberem Wasser",
+    option3: "Ein Gewässer mit altem Fischbestand",
+  },
+  {
+    id: 136,
+    question: "Was benötigen Unterwasserpflanzen, um Sauerstoff zu erzeugen?",
+    option1: "Licht",
+    option2: "Kühles Wasser",
+    option3: "Einen pH-Wert im sauren Bereich",
+  },
+  {
+    id: 137,
+    question: "In welcher Gewässerregion gibt es die meisten Fischarten?",
+    option1: "Bleiregion",
+    option2: "Forellenregion",
+    option3: "Barbenregion",
+  },
+  {
+    id: 138,
+    question: "Wie soll der Fischbestand in einem Gewässer beschaffen sein?",
+    option1:
+      "Dem Gewässer entsprechend artenreich und in ausgewogener Alterszusammensetzung.",
+    option2:
+      "Dem Markt entsprechend mit hauptsächlich großen, kapitalen Fischarten.",
+    option3:
+      "Der anglerischen Attraktivität entsprechend mit vorwiegend fangfähigen Fischen",
+  },
+  {
+    id: 139,
+    question: "Was ist unter einer Vollzirkulation eines Sees zu verstehen?",
+    option1: "Die vollständige Umwälzung des Wasserkörpers",
+    option2:
+      "Die vollständige Umsetzung der verfügbaren Nährstoffe in pflanzliche Biomasse.",
+    option3: "Der vollständige Sauerstoffabbau  im Winter unter der Eisdecke",
+  },
+  {
+    id: 140,
+    question:
+      "Wann wird der Sauerstoffgehalt in einem stehenden Gewässer gering sein?",
+    option1:
+      "Bei Dunkelheit und Massenvorkommen von Algen oder Unterwasserpflanzen",
+    option2:
+      "Bei Sonnenschein und Massenvorkommen von Algen oder Unterwasserpflanzen",
+    option3: "Der Sauerstoffgehalt ist in stehenden Gewässern immer gering.",
+  },
+  {
+    id: 141,
+    question: "In wenig abwasserbelasteten Bächen leben bevorzugt ...?",
+    option1: "Larven von Stein- und Köcherfliegen",
+    option2: "Hüpferlinge und Wasserflöhe",
+    option3: "Schlammröhrenwürmer und Wasserasseln",
+  },
+  {
+    id: 142,
+    question:
+      "Wie lautet die richtige Reihenfolge der Regionen im Fließgewässer?",
+    option1: "Forellen-, Äschen-, Barben-, Blei-, Brackwasserregion",
+    option2: "Forellen-, Barben-, Blei-, Brackwasser-, Äschenregion",
+    option3: "Blei-, Äschen-, Barben-, Forellen-, Brackwasserregion",
+  },
+  {
+    id: 143,
+    question:
+      "Wodurch kann in einem Gewässer der Sauerstoffgehalt schnell abnehmen?",
+    option1:
+      "Durch Einleitung von Abwasser und starke organische Verschmutzung",
+    option2:
+      "Durch schnelles Absinken der Wassertemperatur um mehr als 5 Grad Celsius",
+    option3:
+      "Durch Photosynthese der Wasserpflanzen bei starker Sonneneinstrahlung",
+  },
+  {
+    id: 144,
+    question: "Was versteht man unter der Wasserblüte?",
+    option1: "Übermäßige Entwicklung pflanzlichen Planktons",
+    option2: "Auf dem Wasser niedergegangener Blütenstaub",
+    option3: "Starkes Vorkommen blütentragender Wasserpflanzen",
+  },
+  {
+    id: 145,
+    question:
+      'Wann tritt die "Vollzirkulation" in einem geschichteten See auf?',
+    option1: "Im Spätherbst",
+    option2: "Im Hochsommer",
+    option3: "Die Gewitterstimmung",
+  },
+  {
+    id: 146,
+    question: "Welche Fließgewässerregion ist für Brandenburg typisch?",
+    option1: "Die Bleiregion",
+    option2: "Die Forellenregion",
+    option3: "Die Kaulbarsch-/Flunderregion",
+  },
+  {
+    id: 147,
+    question: 'Wie ist ein "Zandersee" beschaffen?',
+    option1: "Trübes Wasser und ein gut entwickelter Freiwasserraum",
+    option2: "Flach und krautreich",
+    option3: "Klares Wasser und steile Ufer",
+  },
+  {
+    id: 148,
+    question: 'Wie ist ein "Maränensee" beschaffen?',
+    option1: "Tief, sehr sauber und klarsichtig",
+    option2: "Flach und krautreich",
+    option3: "Trüb und nährstoffreich",
+  },
+  {
+    id: 149,
+    question: "Welche Fischarten sind für Niederungsforellenbäche typisch?",
+    option1: "Forellen, Schmerlen, Groppen, Elritzen",
+    option2: "Forellen, Zander, Karauschen",
+    option3: "Forellen, Karpfen, Schleien",
+  },
+  {
+    id: 150,
+    question: "Was ist Ursache für die Eutrophierung von Gewässern?",
+    option1: "Die Nährstoffanreicherung",
+    option2: "Die Einleitung von Pumpwässern aus Torfstichen",
+    option3: "Die Kalkung von Teichen",
+  },
+  {
+    id: 151,
+    question:
+      "Sind Gewässer mit starker Wasserblüte durch Sauerstoffmangel gefährdet?",
+    option1:
+      "Ja, ein massenhaftes Absterben der Algen führt zur Sauerstoffzehrung",
+    option2:
+      "Nein, die Wasserblüte zeigt das Vorhandensein massenhafter junger Algen mit hoher Assimilation an.",
+    option3:
+      "Nein, die Wasserblüte entwickelt sich über dem Wasserspiegel durch See und Teichrosen",
+  },
+  {
+    id: 152,
+    question: "Was ist das Gelege aus fischereilicher Sicht?",
+    option1: "Die bewachsene wasserseitige Uferzone",
+    option2: "Die bewachsene landseitige Uferzone",
+    option3: "Die Gesamtzahl der sich im Nest eines Vogels befindlichen Eier",
+  },
+  {
+    id: 153,
+    question: "Was sind oligotrophe Seen?",
+    option1: "Nährstoffarme Seen",
+    option2: "Nährstoffreiche Seen",
+    option3: "Nährstoffüberlastete Seen",
+  },
+  {
+    id: 154,
+    question:
+      "Warum kann es im Winter bei geschlossener Eis- und Schneedecke zur Ausstickung von stehenden Gewässern kommen?",
+    option1:
+      "Weil kein natürlicher Sauerstoffeintrag sowie keine ausreichende Sauerstoffproduktion möglich ist",
+    option2: "Weil der Stickstoffgehalt zu hoch ist.",
+    option3:
+      "Weil die Temperaturen unter 6 C fallen und die Sauerstoffproduktion eingestellt wird.",
+  },
+  {
+    id: 155,
+    question:
+      "Die Reihenfolge des Pflanzenbewuchses vom Ufer aus ist wie folgt:",
+    option1:
+      "Schilf - Schwimmblattpflanzen - Laichkräuter-unterseeische Wiesen.",
+    option2:
+      "Schilf - Laichkräuter - Schwimmblattpflanzen - unterseeische Wiesen.",
+    option3:
+      "Schwimmblattpflanzen - Laichkräuter - unterseeische Wiesen - Schilf",
+  },
+  {
+    id: 156,
+    question: "Weshalb ist für bestimmte Fischarten ein Mindestmaß notwendig?",
+    option1: "Um die Bestandserhaltung zu gewährleisten.",
+    option2: "Um kleinere Fische vor dem Fangstress zu schonen.",
+    option3:
+      "Um eine ausreichende Nahrungsmenge für Raubfische im Gewässer zu belassen.",
+  },
+  {
+    id: 157,
+    question: "Was versteht man unter einem mäandrierenden Fließgewässer?",
+    option1: "Ein Gewässer mit vielen Biegungen",
+    option2: "Ein Gewässer mit reichlicher Ufervegetation",
+    option3: "Ein Gewässer, das im Untergrund versickert",
+  },
+  {
+    id: 158,
+    question: "Was ist ein Kolk ?",
+    option1: "Eine Vertiefung in einem Fließgewässer",
+    option2: "Ein versumpftes Gelände",
+    option3: "Eine Sandbank",
+  },
+  {
+    id: 159,
+    question: "Warum stehen Fische im Fließgewässer gern hinter Hindernissen?",
+    option1: "Sie finden dort strömungsberuhigte Einstände.",
+    option2: "Sie werden dort nicht gesehen.",
+    option3: "Sie sind dort nur schwer zu beangeln.",
+  },
+  {
+    id: 160,
+    question:
+      "Welche ist die fischereilich vorteilhafteste Art der Wasserstandsregulierung in Fließgewässern?",
+    option1: "Freies Mäandrieren.",
+    option2: "Bau von Schleusen.",
+    option3: "Errichtung von Wehren",
+  },
+  {
+    id: 161,
+    question: "Was versteht man unter Ausstickung ?",
+    option1: "Das Fischsterben durch Sauerstoffmangel im Gewässer.",
+    option2: "Eine Entfernung von Stickstoff aus dem Gewässer.",
+    option3: "Das Ersticken der Fische an Land.",
+  },
+  {
+    id: 162,
+    question: "Was ist unter Verlandung zu verstehen?",
+    option1:
+      "Die langsame Verflachung eines Gewässers durch Pflanzenwachstum sowie Sand- und Staubeintrag.",
+    option2: "Das Zuschütten des Gewässers",
+    option3: "Die Überflutung von Landflächen durch Anstau von Wasser.",
+  },
+  {
+    id: 163,
+    question: "Was versteht man unter einer Verbuttung?",
+    option1:
+      "Schlecht ernährte und kaum noch wachsende Fischbestände mit großer Stückzahl",
+    option2: "Das Auftreten von Flundern",
+    option3: "Die Intensivhaltung, z.B. von Forellen.",
+  },
+  {
+    id: 164,
+    question:
+      "Warum können starke Ufergehölze die Produktivität von Gewässern beeinträchtigen?",
+    option1:
+      "Sie behindern die Sonneneinstrahlung und verringern dadurch das Pflanzen- und Nährtieraufkommen.",
+    option2: "Sie können Uferstrukturen zerstören und den Fischfang behindern.",
+    option3: "Sie sind ein Hindernis für die Angelfischerei.",
+  },
+  {
+    id: 165,
+    question: "Welches sind typische Fischnährtiere der Bodenzone?",
+    option1: "Rote Zuckmückenlarven",
+    option2: "Wasserflöhe",
+    option3: "Rückenschwimmer",
+  },
+  {
+    id: 166,
+    question: "Welche Arten gehören zu den Unterwasserpflanzen?",
+    option1: "Laichkraut, Hornkraut, Tausendblatt",
+    option2: "Seerosen, Wasserlinsen",
+    option3: "Rohr, Seggen, Kalmus",
+  },
+  {
+    id: 167,
+    question:
+      "Zwischen welchen Fischarten besteht eine starke Nahrungskonkurrenz?",
+    option1: "Zwischen Karpfen und Blei",
+    option2: "Zwischen Blei und Barsch",
+    option3: "Zwischen Schlei und Maräne.",
+  },
 ];

@@ -7,7 +7,7 @@ import { quizQuestions } from "./questions";
 import { shuffleArray } from "./utils";
 import QuizControls from "./QuizControls";
 
-const MAX_QUESTIONS_PER_SESSION = 15;
+const MAX_QUESTIONS_PER_SESSION = 20;
 const LOCAL_STORAGE_KEY = "quizWrongAnswerIds"; // Key for localStorage
 
 // Main App Component
