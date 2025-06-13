@@ -27,7 +27,7 @@ const StartScreen: React.FC<StartScreenProps> = ({
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-500 to-purple-600 p-4 font-sans">
       <div className="bg-white p-8 rounded-2xl shadow-xl w-full max-w-lg text-center transform hover:scale-105 transition-transform duration-300">
         <h2 className="text-4xl font-bold text-gray-800 mb-6 animate-fade-in-down">
-          Welcome to the Quiz!
+          Sie ein Mukkuvan!
         </h2>
         <p className="text-xl text-gray-700 mb-8 animate-fade-in">
           There are {quizQuestionsLength} questions in total. Each session will
