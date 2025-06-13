@@ -1,5 +1,5 @@
 export type TQuestion = {
-  id: string;
+  id: number;
   question: string;
   option1: string; // This is now implicitly the correct answer
   option2: string;
