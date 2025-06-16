@@ -1261,4 +1261,107 @@ export const quizQuestions: TQuestion[] = [
     option2: "Zwischen Blei und Barsch",
     option3: "Zwischen Schlei und Maräne.",
   },
+  {
+    id: 168,
+    question: "Welche Pflanzen gehören zur Gruppe der Überwasserpflanzen?",
+    option1: "Igelkolben, Seggen, Rohr",
+    option2: "Hornkraut, Wasserpest, Laichkraut.",
+    option3: "Quellmoos, Wasserlinsen, Froschbiss.",
+  },
+  {
+    id: 169,
+    question: "Welche Arten gehören zu den Schwimmblattpflanzen?",
+    option1: "Seerosen, Froschbiss, Wasserlinsen",
+    option2: "Igelkolben, Tannenwedel, Laichkraut.",
+    option3: "Quellmoos, Seggen, Hornkraut.",
+  },
+  {
+    id: 170,
+    question: "Welche Ansprüche stellen Forellen an ihren Lebensraum?",
+    option1: "Kaltes und sauerstoffreiches Wasser",
+    option2: "Warmes Wasser mit nicht zu hoher Sauerstoffkonzentration.",
+    option3: "Strömendes, warmes Wasser mit hoher Leitfähigkeit.",
+  },
+  {
+    id: 171,
+    question:
+      "Wie sind Gumpen (Kolke) in Bächen und Flüssen aus fischereilicher Sicht zu beurteilen?",
+    option1: "Sie sind besonders gute Standplätze für viele Fischarten.",
+    option2: "Sie sind sauerstoffärmer und werden gemieden.",
+    option3: "Sie sind für Fische ungeeignet.",
+  },
+  {
+    id: 172,
+    question:
+      "Welche Zone der Standgewässer wird von den meisten Fischarten bevorzugt aufgesucht?",
+    option1: "Die Uferzone",
+    option2: "Die Freiwasserzone",
+    option3: "Die Übergangszone mit Muschelschalen",
+  },
+  {
+    id: 173,
+    question:
+      "Welche Fischart lebt überwiegend in der Freiwasserzone eines Sees?",
+    option1: "Ukelei",
+    option2: "Blei",
+    option3: "Hecht",
+  },
+  {
+    id: 174,
+    question: "Welche Fischart bevorzugt die Bodenzone eines Stillwassers?",
+    option1: "Blei",
+    option2: "Döbel",
+    option3: "Stint",
+  },
+  {
+    id: 175,
+    question: "Wovon hängt das Aufkommen der Hechte in einem Gewässer ab?",
+    option1: "Von der Anzahl und Struktur der Einstandsflächen (Gelege).",
+    option2: "Vom Nährtierbestand in der Bodenzone",
+    option3: "Vom Nährtierbestand in der Freiwasserzone",
+  },
+  {
+    id: 176,
+    question: "Ein Gewässer kippt um. Was bedeutet das?",
+    option1: "Pflanzen und Tiere sterben in großen Mengen",
+    option2: "Das Gewässer ist leergefischt.",
+    option3: "Es handelt sich um einen Zustand nach Hochwasser.",
+  },
+  {
+    id: 177,
+    question: "Gibt es eine natürliche Selbstreinigungskraft von Gewässern?",
+    option1: "Ja",
+    option2: "Ja, aber nur im Sommer",
+    option3: "Ja, aber nur im Winter",
+  },
+  {
+    id: 178,
+    question:
+      "Können bereits geringe Abwassereinleitungen biologische Schäden in Gewässern verursachen?",
+    option1:
+      "Ja, die Tier- und Pflanzenwelt reagiert gegen Umweltveränderungen besonders empfindlich.",
+    option2: "Nein, die Selbstreinigungskraft ist unbegrenzt.",
+    option3: "Nein, Abwasser werden ausreichend verdünnt.",
+  },
+  {
+    id: 179,
+    question: "Wie füttert man sinnvoll an?",
+    option1: "Abwartend in kleinen, dosierten Mengen",
+    option2: "Nur mit Brot",
+    option3: "Reichlich",
+  },
+  {
+    id: 180,
+    question: "Wie verhalten sich Fische bei Sauerstoffmangel?",
+    option1: 'Sie kommen an die Wasseroberfläche und "schnappen nach Luft".',
+    option2: "Sie springen aus dem Wasser.",
+    option3: "Sie verenden sofort.",
+  },
+  {
+    id: 181,
+    question: "Wie sind Wasserproben zu entnehmen?",
+    option1: "Mit gründlich gesäuberten Glasflaschen bei randvoller Füllung",
+    option2: "Mit halber Füllung und sterilem Verschluss.",
+    option3: "Nur mit Laborflaschen.",
+  },
 ];
