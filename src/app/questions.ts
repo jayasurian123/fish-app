@@ -3638,4 +3638,921 @@ export const quizQuestions: TQuestion[] = [
     option2: "Ja",
     option3: "Ja, mit Ausnahme der Nord- und Ostsee",
   },
+  {
+    id: 481,
+    question:
+      "Ist die ökologisch verträgliche Nutzung abgestorbener Schilfteile erlaubt?",
+    option1: "Ja",
+    option2: "Nein, die Schilf- und Ufervegetation ist streng geschützt",
+    option3: "Nein, das Fischereirecht gibt das nicht her",
+  },
+  {
+    id: 482,
+    question:
+      "Wie lange ist ein Fischereischein des Landes Brandenburg gültig?",
+    option1: "Unbefristet",
+    option2: "10 Jahre",
+    option3: "Bis zum 70. Lebensjahr",
+  },
+  {
+    id: 483,
+    question:
+      "Ist für die Zulassung zur Anglerprüfung der Besuch eines Vorbereitungslehrganges vorgeschrieben?",
+    option1: "Nein",
+    option2: "Ja",
+    option3:
+      "Ja, aber nur für Bewerber, die keine Erfahrungen mit der Angelfischerei haben.",
+  },
+  {
+    id: 484,
+    question:
+      'Der Begriff "Fische" gilt gem. des Fischereigesetzes für das Land Brandenburg ...',
+    option1:
+      "nur für Fische, deren Laich, Neunaugen, Krebse, Muscheln sowie Fischnährtiere",
+    option2: "nur für alle Fischarten",
+    option3: "nur für Fische, Neunaugen und Fischnährtiere",
+  },
+  {
+    id: 485,
+    question:
+      "Wer kann in Brandenburg eine Angelkarte zum Raubfischfang erwerben?",
+    option1: "Nur Inhaber eines Fischereischeins",
+    option2: "Jeder ab 14 Jahren",
+    option3: "Jeder ab 18 Jahren",
+  },
+  {
+    id: 486,
+    question:
+      "Darf ohne Angelkarte geangelt werden, wenn kein Fisch gefangen wurde?",
+    option1: "Nein",
+    option2: "Ja, wenn man keine Fangabsicht hatte",
+    option3: "Ja, wenn kein Verbotsschild stand",
+  },
+  {
+    id: 487,
+    question:
+      "Berechtigt allein der Besitz des Fischereischeins zur Ausübung der Fischerei?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, aber nur an Gewässern der Anglervereine",
+  },
+  {
+    id: 488,
+    question: "Kann der Fischereischein entzogen werden?",
+    option1: "Ja, bei Verstößen gegen fischereirechtliche Vorschriften",
+    option2: "Nein",
+    option3: "Ja, aber nur durch das Umweltministerium",
+  },
+  {
+    id: 489,
+    question: "Was ist ein Fischereierlaubnisvertrag?",
+    option1: "Eine Angelkarte",
+    option2: "Ein Fischereischein",
+    option3: "Ein Pachtvertrag",
+  },
+  {
+    id: 490,
+    question: "In welchen Vorschriften stehen verbotene Fangmethoden?",
+    option1: "Im Fischereigesetz und der Fischereiordnung Brandenburg",
+    option2: "Im Tierschutzgesetz",
+    option3: "In der Gewässerordnung",
+  },
+  {
+    id: 491,
+    question: "Wer stellt den Fischereischein aus?",
+    option1: "Die untere Fischereibehörde",
+    option2: "Der Bürgermeister",
+    option3: "Der Fischereiverband",
+  },
+  {
+    id: 492,
+    question: "Wer ist die untere Fischereibehörde in Brandenburg?",
+    option1: "Landkreis oder kreisfreie Stadt",
+    option2: "Umweltministerium",
+    option3: "Landesanglerverband",
+  },
+  {
+    id: 493,
+    question:
+      "Ab welchem Alter kann die Anglerprüfung in Brandenburg abgelegt werden?",
+    option1: "14 Jahre",
+    option2: "12 Jahre",
+    option3: "10 Jahre",
+  },
+  {
+    id: 494,
+    question: "Darf mit dem Fischereischein mit Harpune geangelt werden?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, mit Sondergenehmigung",
+  },
+  {
+    id: 495,
+    question:
+      "Ist der Fischfang in Fischpässen oder Fischtreppen allgemein erlaubt?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, aber nur am oberen und unteren Ende",
+  },
+  {
+    id: 496,
+    question: "Wer ist zur Ausgabe von Angelkarten berechtigt?",
+    option1: "Der Fischereiausübungsberechtigte",
+    option2: "Nur die untere Fischereibehörde",
+    option3: "Der Fischereibeirat",
+  },
+  {
+    id: 497,
+    question:
+      "Darf ein Angelfischer als Inhaber des Fischereischeins mit einer Aalschnur bis 50 Haken fischen ?",
+    option1: "Nein",
+    option2: "Ja, mit Zusatzgenehmigung durch die untere Fischereibehörde",
+    option3: "Ja, aber nur während des Hegefischens",
+  },
+  {
+    id: 498,
+    question:
+      "Muss ein Angler, der die Friedfischhandangel nutzt, ein Fangbuch führen?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, ab dem 18. Lebensjahr",
+  },
+  {
+    id: 499,
+    question:
+      "Wem ist der Fischereischein auf Verlangen zur Einsicht vorzuzeigen?",
+    option1: "Dem Fischereiaufseher",
+    option2: "Dem Umweltbeauftragten",
+    option3: "Dem Bürgermeister",
+  },
+  {
+    id: 500,
+    question:
+      "Darf aufgrund einer Erwerbsfischer erworbenen Angelkarte für ein Fließgewässer auch auf überfluteten Grundstücken geangelt werden?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, aber nur im Monat März",
+  },
+  {
+    id: 501,
+    question: "Wer kann den Besatz mit bestimmten Fischarten verbieten?",
+    option1: "Die Fischereibehörde",
+    option2: "Der Jagdpächter",
+    option3: "Die Wasserschutzpolizei",
+  },
+  {
+    id: 502,
+    question: "Ist mit dem Fischereirecht auch die Pflicht zur Hege verbunden?",
+    option1: "Ja",
+    option2: "Nein",
+    option3: "Ja, aber nur auf Antrag",
+  },
+  {
+    id: 503,
+    question:
+      "Gilt die Hegeverpflichtung auch für bewirtschaftete Anlagen der Angelfischerei?",
+    option1: "Ja, aber nur für dort eingesetzte Arten",
+    option2: "Nein",
+    option3: "Ja",
+  },
+  {
+    id: 504,
+    question:
+      "Benötigt der Inhaber eines Fischereischeins zum Angeln auf dem See eine zusätzliche Genehmigung?",
+    option1: "Ja",
+    option2: "Ja, aber nur zum Nachtangeln",
+    option3: "Nein",
+  },
+  {
+    id: 505,
+    question:
+      "Auf welchem Gewässer gilt das Mitgliedsdokument eines Angelvereins?",
+    option1: "Auf dem Gewässer, für das es ausgestellt ist",
+    option2: "Auf allen Gewässern",
+    option3: "Auf den Seen eines bestimmten Bezirks",
+  },
+  {
+    id: 506,
+    question: "Wann liegt Koppelfischerei vor?",
+    option1:
+      "Wenn an derselben Stelle gleichzeitig mit mehreren Ruten gefischt wird",
+    option2: "Wenn mehrere Angler zusammen angeln",
+    option3: "Wenn an beangelten Gewässern Gruppen fischen",
+  },
+  {
+    id: 507,
+    question:
+      "Kann die untere Fischereibehörde die Höchstzahl der Angelkarten festlegen?",
+    option1: "Ja, im Benehmen mit dem Fischereiberechtigten",
+    option2: "Nein",
+    option3: "Ja, aber nur mit Zustimmung der Fischereigenossenschaft",
+  },
+  {
+    id: 508,
+    question:
+      "Kann die untere Fischereibehörde die Fangerlaubnis auf bestimmte Arten beschränken?",
+    option1: "Ja, im Benehmen mit dem Fischereiberechtigten",
+    option2: "Nein",
+    option3: "Ja, aber nur mit Zustimmung der Fischereigenossenschaft",
+  },
+  {
+    id: 509,
+    question: "Kann die untere Fischereibehörde die Fangmengen beschränken?",
+    option1: "Ja, im Benehmen mit dem Fischereiberechtigten",
+    option2: "Nein",
+    option3: "Ja, aber nur mit Zustimmung der Fischereigenossenschaft",
+  },
+  {
+    id: 510,
+    question: "Kann die untere Fischereibehörde die Fangmittel beschränken?",
+    option1: "Ja, im Benehmen mit dem Fischereiberechtigten",
+    option2: "Nein",
+    option3: "Ja, aber nur mit Zustimmung der Fischereigenossenschaft",
+  },
+  {
+    id: 511,
+    question:
+      "Kann die untere Fischereibehörde das Betreten von Uferflächen erlauben oder verbieten?",
+    option1: "Ja, soweit das im Interesse der Fischerei ist",
+    option2: "Nein, nur die oberste Behörde",
+    option3: "Nein",
+  },
+  {
+    id: 512,
+    question:
+      "Kann die untere Fischereibehörde das Betreten von Anlagen in und an Gewässern regeln?",
+    option1: "Ja, soweit das im Interesse der Fischerei ist",
+    option2: "Nein, nur die oberste Behörde",
+    option3: "Nein",
+  },
+  {
+    id: 513,
+    question:
+      "Der Fischereischein kann Personen versagt werden, die wegen welcher Straftat verurteilt wurden?",
+    option1: "Urkundenfälschung",
+    option2: "Alkohol am Steuer",
+    option3: "Subventionsbetrug",
+  },
+  {
+    id: 514,
+    question:
+      "Der Fischereischein kann Personen versagt werden, die wegen welcher Straftat verurteilt wurden?",
+    option1: "Fischwilderei",
+    option2: "Diebstahl",
+    option3: "Alkohol am Steuer",
+  },
+  {
+    id: 515,
+    question:
+      "Der Fischereischein kann Personen versagt werden, die wegen welcher Straftat verurteilt wurden?",
+    option1: "Verstöße gegen fischereirechtliche Vorschriften",
+    option2: "Versicherungsbetrug",
+    option3: "Geschwindigkeitsüberschreitung",
+  },
+  {
+    id: 516,
+    question: "Ist vor Beginn des Angelns eine Fischereiabgabe zu entrichten?",
+    option1: "Ja",
+    option2: "Nein",
+    option3: "Ja, nur für Personen ab dem 18. Lebensjahr",
+  },
+  {
+    id: 517,
+    question:
+      "Die Aufsicht über die Fischerei ist eine Landesaufgabe. Wer führt sie aus?",
+    option1: "Die unteren Fischereibehörden",
+    option2: "Der Amtstierarzt",
+    option3: "Das Landesamt für Umwelt",
+  },
+  {
+    id: 518,
+    question:
+      "In welcher Rechtsvorschrift sind die Fischereibestimmungen in Brandenburg geregelt?",
+    option1: "Fischereiordnung des Landes Brandenburg",
+    option2: "Brandenburgisches Fischereigesetz",
+    option3: "Fischereigesetz des Bundes",
+  },
+  {
+    id: 519,
+    question:
+      "In welcher Rechtsvorschrift sind die Schonzeiten für Fische im Land Brandenburg geregelt?",
+    option1: "Fischereiordnung des Landes Brandenburg",
+    option2: "Fischereigesetz des Landes Brandenburg",
+    option3: "Vereinssatzung",
+  },
+  {
+    id: 520,
+    question:
+      "Darf ein Fischereiausübungsberechtigter die gesetzlichen Mindestmaße unterschreiten?",
+    option1: "Ja, das Mindestmaß darf unterschritten werden",
+    option2: "Nein",
+    option3: "Ja, jedoch nur für Hegemaßnahmen",
+  },
+  {
+    id: 521,
+    question:
+      "Darf ein Fischereiausübungsberechtigter die gesetzlich bestimmten Schonzeiten für sein Gewässer verändern?",
+    option1: "Ja, aber nur strengere Bestimmungen",
+    option2: "Nein",
+    option3: "Ja, aber nur für Salmoniden",
+  },
+  {
+    id: 522,
+    question: "Haben Schonzeiten auch in der Teichwirtschaft Gültigkeit?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, aber nur in der Karpfenteichwirtschaft",
+  },
+  {
+    id: 523,
+    question:
+      'Gelten in "Angelteichen" der Teichwirtschaft die Mindestmaße nach der Fischereiordnung Brandenburg?',
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, aber nur für Raubfische",
+  },
+  {
+    id: 524,
+    question: "Welches Mindestmaß hat die Quappe?",
+    option1: "30 cm",
+    option2: "20 cm",
+    option3: "10 cm",
+  },
+  {
+    id: 525,
+    question:
+      "Ist es statthaft, ausgelegte Angelgeräte unbeaufsichtigt zu lassen?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, aber nur bei Friedfischangeln",
+  },
+  {
+    id: 526,
+    question:
+      "Welche Fangmethode ist vom Grundsatz her für den Angelfischer verboten?",
+    option1: "Fang mit lebendem Köderfisch",
+    option2: "Fang mit Fetzenködern",
+    option3: "Fang mit totem Köderfisch",
+  },
+  {
+    id: 527,
+    question:
+      "Dürfen alle Fische ohne Genehmigung in ein Gewässer eingesetzt werden?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, aber nur durch den Berufsfischer",
+  },
+  {
+    id: 528,
+    question:
+      "Aus welchen Gründen kann die Fischereibehörde Ausnahmen zu Mindestmaßen/Schonzeiten zulassen?",
+    option1: "Lehr-, Versuchs-, Forschungszwecke",
+    option2: "Stabilisierung der Angelfischerei",
+    option3: "Versorgung der Bevölkerung mit Frischfisch",
+  },
+  {
+    id: 529,
+    question:
+      "Ist es verboten, künstliche Köder mit feststehenden Mehrfachhaken zu verwenden?",
+    option1: "Ja",
+    option2: "Ja, aber nur wenn sie aus Messing bestehen",
+    option3: "Nein",
+  },
+  {
+    id: 530,
+    question:
+      "Ist es verboten, mehr als drei Angelhaken je Handangel zu verwenden?",
+    option1: "Ja",
+    option2: "Ja, aber nur wenn sie Widerhaken besitzen",
+    option3: "Nein",
+  },
+  {
+    id: 531,
+    question:
+      "Kann die Fischereibehörde Ausnahmen vom Verbot lebender Köderfische zulassen?",
+    option1: "Ja, im Einzelfall mit Begründung",
+    option2: "Ja, zur Vermeidung von Hechtverbuttung",
+    option3: "Ja, zur Attraktivitätssteigerung",
+  },
+  {
+    id: 532,
+    question:
+      'In welchen Gewässern dürfen "frische" Köderfische verwendet werden?',
+    option1: "Im Ursprungsgewässer/-system",
+    option2: "In allen Gewässern",
+    option3: "In geschlossenen Gewässern",
+  },
+  {
+    id: 533,
+    question: "Gilt das auch für tiefgefrorene Köderfische?",
+    option1: "Nein",
+    option2: "Ja, mit Ausnahme von Plötzen",
+    option3: "Ja",
+  },
+  {
+    id: 534,
+    question: "Bis zu welcher Seitenlänge darf ein Senknetz verwendet werden?",
+    option1: "Bis zu 120 cm",
+    option2: "Bis zu 130 cm",
+    option3: "Bis zu 125 cm",
+  },
+  {
+    id: 535,
+    question: "Wozu darf ein Senknetz verwendet werden?",
+    option1: "Zum Köderfischfang",
+    option2: "Zum Fang von Blankaalen",
+    option3: "Zum Fang von Satzaalen (kleiner als 45 cm)",
+  },
+  {
+    id: 536,
+    question:
+      "Wie viele einschenklige Haken darf die Handangel beim Friedfischangeln mit tierischen Ködern haben?",
+    option1: "Einen",
+    option2: "Zwei",
+    option3: "Drei",
+  },
+  {
+    id: 537,
+    question:
+      "Wie viele einschenklige Haken darf die Handangel beim Friedfischangeln mit pflanzlichen Ködern haben?",
+    option1: "Einen",
+    option2: "Zwei",
+    option3: "Drei",
+  },
+  {
+    id: 538,
+    question:
+      "Wie viele tote Köderfische dürfen an einer Angel verwendet werden?",
+    option1: "Ein Köder",
+    option2: "Zwei Köder",
+    option3: "Drei Köder",
+  },
+  {
+    id: 539,
+    question: "Wie viele Fetzenköder dürfen an einer Angel verwendet werden?",
+    option1: "Ein Köder",
+    option2: "Zwei Köder",
+    option3: "Drei Köder",
+  },
+  {
+    id: 540,
+    question:
+      "Mit wie vielen Grundangeln darf ein Angler gleichzeitig fischen?",
+    option1: "Zwei",
+    option2: "Drei",
+    option3: "Vier",
+  },
+  {
+    id: 541,
+    question: "Wie viele Angeln sind beim Spinnangeln zulässig?",
+    option1: "Eine Angel",
+    option2: "Zwei Angeln",
+    option3: "Eine Spinnangel und eine Grundangel",
+  },
+  {
+    id: 542,
+    question: "Wie viele Angeln sind beim Flugangeln zulässig?",
+    option1: "Eine Angel",
+    option2: "Zwei Angeln",
+    option3: "Eine Flugangel und eine Grundangel",
+  },
+  {
+    id: 543,
+    question: "Wo ist Nachtangeln grundsätzlich verboten?",
+    option1: "In Naturschutzgebieten",
+    option2: "An allen Gewässern",
+    option3: "In Angelteichen",
+  },
+  {
+    id: 544,
+    question:
+      "Wann kann die untere Fischereibehörde bei Vorliegen von Koppelfischerei das Nachtangeln gestatten?",
+    option1:
+      "Wenn keine fischereibiologischen oder gewässerökologischen Nachteile zu erwarten sind.",
+    option2: "Wenn die Anzahl der am Tage Angelnden reduziert werden soll.",
+    option3: "Zur Bestandsregulierung bestimmter Fischarten, z.B. Karpfen.",
+  },
+  {
+    id: 545,
+    question: "Wann dürfen Köderfischsenken eingesetzt werden?",
+    option1: "Wenn die privatrechtliche Zulassung vorliegt.",
+    option2: "Vom 31. Dezember bis zum 30. April",
+    option3: "Vom 1. Januar bis zum 31. Mai",
+  },
+  {
+    id: 546,
+    question:
+      "Ist für ein Gemeinschaftsangeln eine Antragstellung auf Genehmigung bei der unteren Fischereibehörde erforderlich?",
+    option1: "Ja",
+    option2: "Nein",
+    option3:
+      "Ja, aber nur, wenn es sich um ein organisiertes Nachtangeln handelt.",
+  },
+  {
+    id: 547,
+    question:
+      "Wann ist für ein Gemeinschaftsangeln die Genehmigung zu versagen?",
+    option1: "Wenn das Angeln vorwiegend aus Wettbewerbsgründen erfolgt.",
+    option2:
+      "Wenn aus einem eutrophen See Weißfische entnommen und verwertet werden sollen.",
+    option3:
+      "Wenn die Fische geräuchert und bei einem Vereinsabend verzehrt werden sollen.",
+  },
+  {
+    id: 548,
+    question: "Dürfen erkennbar kranke Fische ausgesetzt werden?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, aber nur mit Zustimmung des Fischers.",
+  },
+  {
+    id: 549,
+    question:
+      "Darf ein Angelfischer das Gelege (bewachsene wasserseitige Uferzone) betreten oder befahren?",
+    option1: "Nein",
+    option2: "Ja, aber nur mit Genehmigung der Wasserschutzpolizei.",
+    option3: "Ja",
+  },
+  {
+    id: 550,
+    question:
+      "Maßnahmen und Handlungen in Winterlagern, die die Winterruhe nachhaltig stören können sind verboten. Gehört dazu auch das Eishockeyspielen über einem Winterlager?",
+    option1: "Ja",
+    option2: "Nein",
+    option3:
+      "Nein, aber nur wenn das Gewässer in diesem Bereich tiefer als einen Meter ist.",
+  },
+  {
+    id: 551,
+    question:
+      "Measures and activities in wintering areas that can permanently disturb winter rest are prohibited. Does this also include playing ice hockey above a wintering area?",
+    option1: "Ja",
+    option2: "Nein",
+    option3:
+      "No, but only if the water body is deeper than one meter in this area",
+  },
+  {
+    id: 552,
+    question: "Welchen Abstand muss ein Angelfischer zu einer Reuse halten?",
+    option1: "Mindestens 50 Meter",
+    option2: "Mindestens 100 Meter",
+    option3: "Mindestens 10 Meter",
+  },
+  {
+    id: 553,
+    question:
+      "Welche Fischart hat eine Schonzeit ab dem 1. Dezember bis 31. Mai?",
+    option1: "Äsche",
+    option2: "Bachforelle",
+    option3: "Bachneunauge",
+  },
+  {
+    id: 554,
+    question:
+      "Welche Fischart hat eine Schonzeit ab dem 16. Oktober bis 15. April?",
+    option1: "Bachforelle",
+    option2: "Aaland",
+    option3: "Bachneunauge",
+  },
+  {
+    id: 555,
+    question: "Welche Fischart hat eine Schonzeit vom 1. Mai bis .31. Juli?",
+    option1: "Barbe",
+    option2: "Atlantischer Stör",
+    option3: "Bachneunauge",
+  },
+  {
+    id: 556,
+    question: "Welche Fischart hat eine Schonzeit vom 1. April bis 30. Juni?",
+    option1: "Rapfen",
+    option2: "Maifisch",
+    option3: "Ziege",
+  },
+  {
+    id: 557,
+    question: "Welche Fischart hat eine Schonzeit vom 1. April bis 31. Mai?",
+    option1: "Zander",
+    option2: "Westgroppe",
+    option3: "Bachneunauge",
+  },
+  {
+    id: 558,
+    question: "Was ist die Schonzeit der Barbe?",
+    option1: "1. Mai bis 31. Juli",
+    option2: "1. Januar bis 30. April",
+    option3: "1. November bis 31. Dezember",
+  },
+  {
+    id: 559,
+    question: "Was ist die Schonzeit der Zope?",
+    option1: "1. März bis 31. Mai",
+    option2: "1. Januar bis 30. April",
+    option3: "1. November bis 31. Dezember",
+  },
+  {
+    id: 560,
+    question: "Welche Fischart hat keine Schonzeit aber ein Mindestmaß?",
+    option1: "Hasel",
+    option2: "Bachforelle",
+    option3: "Zope",
+  },
+  {
+    id: 561,
+    question: "Welche Fischart hat keine Schonzeit aber ein Mindestmaß?",
+    option1: "Karpfen",
+    option2: "Äsche",
+    option3: "Wels",
+  },
+  {
+    id: 562,
+    question: "Welches Mindestmaß hat der Aland?",
+    option1: "30 cm",
+    option2: "45 cm",
+    option3: "15 cm",
+  },
+  {
+    id: 563,
+    question: "Welches Mindestmaß hat die Äsche?",
+    option1: "30 cm",
+    option2: "25 cm",
+    option3: "15 cm",
+  },
+  {
+    id: 564,
+    question: "Welches Mindestmaß hat die Bachforelle?",
+    option1: "30 cm",
+    option2: "45 cm",
+    option3: "15 cm",
+  },
+  {
+    id: 565,
+    question: "Welches Mindestmaß hat die Barbe?",
+    option1: "40 cm",
+    option2: "45 cm",
+    option3: "30 cm",
+  },
+  {
+    id: 566,
+    question: "Welches Mindestmaß hat der Karpfen?",
+    option1: "35 cm",
+    option2: "45 cm",
+    option3: "30 cm",
+  },
+  {
+    id: 567,
+    question: "Welches Mindestmaß hat die Zope?",
+    option1: "20 cm",
+    option2: "60 cm",
+    option3: "80 cm",
+  },
+  {
+    id: 568,
+    question: "Welche Fischart ist ganzjährig geschont?",
+    option1: "Kleiner Stichling",
+    option2: "Rapfen",
+    option3: "Regenbogenforelle",
+  },
+  {
+    id: 569,
+    question: "Welche Fischart ist ganzjährig geschont?",
+    option1: "Ziege",
+    option2: "Rapfen",
+    option3: "Seeforelle",
+  },
+  {
+    id: 570,
+    question: "Welche Fischart ist ganzjährig geschont?",
+    option1: "Schmerle",
+    option2: "Kleine Maräne",
+    option3: "Hasel",
+  },
+  {
+    id: 571,
+    question: "Welche Fischart ist ganzjährig geschont?",
+    option1: "Ostgroppe",
+    option2: "Rapfen",
+    option3: "Quappe",
+  },
+  {
+    id: 572,
+    question: "Welche Fischart hat keine Schonzeit und kein Mindestmaß?",
+    option1: "Kaulbarsch",
+    option2: "Schneider",
+    option3: "Nase",
+  },
+  {
+    id: 573,
+    question: "Welcher Grundsatz ist Inhalt des Tierschutzgesetzes?",
+    option1:
+      "Niemand darf einem Tier ohne vernünftigen Grund Schmerzen, Leiden oder Schäden zufügen.",
+    option2: "Niemand darf vom Aussterben bedrohte Tiere töten.",
+    option3: "Niemand darf geschützte Tiere fangen.",
+  },
+  {
+    id: 574,
+    question: "Was ist kein vernünftiger Grund für den Fang von Fischen?",
+    option1: "Der Fang zum Zweck der Herstellung von Trophäen.",
+    option2: "Der Fang zum Zweck der menschlichen Ernährung.",
+    option3: "Der Fang zum Zweck der Hege und fischereilichen Bewirtschaftung.",
+  },
+  {
+    id: 575,
+    question:
+      "Worauf hat ein Angelfischer immer zu achten? Es ist verboten, ...",
+    option1:
+      "wildlebende Tiere mutwillig zu beunruhigen oder ohne vernünfigen Grund zu fangen, zu verletzen oder zu töten.",
+    option2: "wildlebende Tiere anzufüttern.",
+    option3: "in Badegewässern zu angeln.",
+  },
+  {
+    id: 576,
+    question: "Hat das Tierschutzgesetz Bedeutung für den Angler?",
+    option1: "Ja",
+    option2: "Nein",
+    option3: "Ja, jedoch nur bei der Verwendung von Köderfischen.",
+  },
+  {
+    id: 577,
+    question: "Gelten in Angelteichen Tierschutzbestimmungen?",
+    option1: "Ja",
+    option2: "Nein",
+    option3: "Ja, jedoch nur bei der Verwendung von Köderfischen.",
+  },
+  {
+    id: 578,
+    question: "Dürfen Forellen im Setzkescher gehältert werden?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, aber nur in kalten Fließgewässern.",
+  },
+  {
+    id: 579,
+    question:
+      "Welche der genannten Fischarten sind gemäß Roter Liste von Brandenburg vom Aussterben bedroht bzw. stark gefährdet?",
+    option1: "Bachneunauge, Bitterling, Rotfeder, Ukelei, Güster",
+    option2: "Kaulbarsch, Plötze",
+    option3: "Dreistachliger Stichling",
+  },
+  {
+    id: 580,
+    question: "Was sind „Rote Liste“-Arten?",
+    option1:
+      "In der Roten Liste sind die vom Aussterben bedrohten oder gefährdeten Tier- und Pflanzenarten aufgenommen.",
+    option2: "Alle Tier- und Pflanzenarten",
+    option3:
+      "Nicht heimische und vom Aussterben bedrohten Tierarten enthalten.",
+  },
+  {
+    id: 581,
+    question: "Ist der Marmorkarpfen ein einheimischer Fisch?",
+    option1: "Nein, er wurde aus Asien eingebürgert.",
+    option2: "Ja, er ist eine brandenburgische Züchtung.",
+    option3: "Ja, er kam schon immer in Brandenburgs Gewässern vor.",
+  },
+  {
+    id: 582,
+    question:
+      "Was ist zu unternehmen, wenn im Angelbereich eine europäische Sumpfschildkröte beobachtet wird?",
+    option1: "Wechsel des Fangplatzes",
+    option2: "Fangen und Vermessen des Tieres",
+    option3: "Umsetzen des Tieres",
+  },
+  {
+    id: 583,
+    question: "Darf der Angler wildlebende Tiere vom Gewässer vertreiben?",
+    option1: "Nein",
+    option2: "Ja, jedoch nur solche Tiere, die Konkurrenten für Fische sind.",
+    option3: "Ja",
+  },
+  {
+    id: 584,
+    question:
+      "Die Ausübung der Fischerei in einem Landschaftsschutzgebiet ist ...",
+    option1: "Grundsätzlich zulässig, jedoch sind Einschränkungen möglich.",
+    option2: "Grundsätzlich verboten.",
+    option3: "In jedem Fall gestattet.",
+  },
+  {
+    id: 585,
+    question:
+      "Welche gesetzlichen Vorschriften sind bei Kammolchen zu beachten?",
+    option1: "Naturschutzrechtliche Vorschriften",
+    option2: "Wasserrechtliche Vorschriften",
+    option3: "Jagdrechtliche Vorschriften",
+  },
+  {
+    id: 586,
+    question:
+      "Ruht in einem Naturschutzgebiet zwangsläufig die Fischereiausübung?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Je nach Auffassung des Fischereiberechtigten",
+  },
+  {
+    id: 587,
+    question: "Ist das Beunruhigen von Eisvögeln erlaubt?",
+    option1: "Nein",
+    option2: "Ja, wenn mehr als drei Eisvögel auftreten.",
+    option3: "Ja, wenn der Fischbestand leidet.",
+  },
+  {
+    id: 588,
+    question:
+      "Was kann ein Fischereiberechtigter gegen Schädigung seines Gewässers aufgrund nicht erlaubter Einleitung von Abwässern unternehmen?",
+    option1:
+      "Er kann von der zuständigen Behörde verlangen, gegen die Einleitung einzuschreiten und Schadensersatz fodern.",
+    option2:
+      "Er kann den Verursacher bestrafen und die Einleitung selbständig unterbinden.",
+    option3: "Einleitung im öffentlichen Interesse dulden.",
+  },
+  {
+    id: 589,
+    question:
+      "Ist eine Beschränkung des Gemeingebrauchs von Gewässern möglich?",
+    option1: "Ja",
+    option2: "Ja, jedoch nur durch den Fischereiberechtigten",
+    option3: "Nein",
+  },
+  {
+    id: 590,
+    question: "Was ist nach dem Wasserrecht Gemeingebrauch?",
+    option1:
+      "Nutzung von Gewässern ohne besondere Erlaubnis im bestimmten Umfang durch jedermann.",
+    option2: "Gebrauch des Wassers für gemeinnützige Zwecke.",
+    option3: "Nutzung durch mehrere angrenzende Länder.",
+  },
+  {
+    id: 591,
+    question: "Wer haftet für Schäden, die beim Angeln verursacht werden?",
+    option1: "Der Angelfischer als Verursacher",
+    option2: "Der Grundstückseigentümer",
+    option3: "Die untere Fischereibehörde",
+  },
+  {
+    id: 592,
+    question: "Was ist Fischwilderei?",
+    option1: "Das Fischen unter Verletzung fremden Fischereirechts",
+    option2: "Die fehlende Beaufsichtigung der Handangel",
+    option3: "Das Fischen während der Nachtzeit",
+  },
+  {
+    id: 593,
+    question:
+      "Wie ist das Fischereirecht der Binnenfischerei in der BRD geregelt?",
+    option1: "Durch Landesrecht",
+    option2: "Durch Bundesrecht",
+    option3: "Durch Recht der Europäischen Union",
+  },
+  {
+    id: 594,
+    question: "Was versteht man unter Fischwegen?",
+    option1: "Künstlich angelegte Fischpässe zur Überwindung von Hindernissen.",
+    option2: "Wege der Fische während der Vermarktung.",
+    option3: "Wanderwege der Fische bei der Laichwanderung.",
+  },
+  {
+    id: 595,
+    question: "Worüber hat sich der Angler grundsätzlich zu informieren?",
+    option1: "Über Auflagen, Grenzen, Schonzeiten und Maßnahmen.",
+    option2: "Über Strafmaß bei Verstößen.",
+    option3: "Über Beißzeiten, Plätze und Köder.",
+  },
+  {
+    id: 596,
+    question: "Wer sich widerrechtlich Fische aus Teichen aneignet, begeht ...",
+    option1: "Diebstahl?",
+    option2: "Fischwilderei?",
+    option3: "Unterschlagung?",
+  },
+  {
+    id: 597,
+    question:
+      "Besteht eine Pflicht zum Verankern des Angelkahnes beim Fischfang?",
+    option1: "Nein",
+    option2: "Ja, aber nur nachts",
+    option3: "Ja",
+  },
+  {
+    id: 598,
+    question: "Welche Fische werden zur Herstellung von Fetzenködern genutzt?",
+    option1: "Plötzen und Barsche",
+    option2: "Untermaßige Hechte",
+    option3: "Untermaßige Aale",
+  },
+  {
+    id: 599,
+    question:
+      "Wird für die Ausübung des Casting-Angelsports der Fischereischein benötigt?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, aber nur für Personen über 18 Jahre",
+  },
+  {
+    id: 600,
+    question:
+      "In wessen Eigentum stehen wildlebende Fische in nicht befischten Gewässern?",
+    option1: "Sie sind herrenlos.",
+    option2: "Sie gehören dem Land.",
+    option3: "Sie gehören dem Staat.",
+  },
 ];
