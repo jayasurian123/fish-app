@@ -1366,67 +1366,74 @@ export const quizQuestions: TQuestion[] = [
   },
   {
     id: 182,
-    question: "Welche Maßnahmen sind bei Wasserverunreinigung sofort geboten?",
-    option1: "Meldung an die zuständige Behörde",
+    question:
+      "Welche Maßnahmen sind bei Feststellung einer Wasserverunreinigung sofort geboten?",
+    option1: "Meldung an die schnellstens erreichbare regionale Behörde",
     option2: "Möglichkeiten zur Frischwasserzufuhr prüfen",
     option3: "Sofortiges Umsetzen geschädigter Fische",
   },
   {
     id: 183,
-    question: "Woran erkennt man ein sauberes Fließgewässer?",
-    option1: "Am Vorkommen von Steinfliegenlarven",
+    question:
+      "Woran kann der Angler ohne Hilfsmittel ein sauberes Fließgewässer erkennen? Am Vorkommen von ...",
+    option1: "Steinfliegenlarven.",
     option2: "Am Vorkommen von Schlammröhrenwürmern",
     option3: "Am Vorkommen von Daphnien",
   },
   {
     id: 184,
     question:
-      "Was hat der Angler zu veranlassen, wenn er viele tote Fische sieht?",
-    option1: "Behörde, Amtstierarzt oder Polizei benachrichtigen",
+      "Was hat der Angler zu veranlassen, wenn er im Gewässer tote Fisch in größerer Anzahl feststellt?",
+    option1:
+      "Benachrichtigung der Fischereibehörde, des Amtstierarztes oder der Polizei",
     option2: "Tote Fische einsammeln und vergraben",
     option3: "Bekämpfungsmaßnahmen einleiten",
   },
   {
     id: 185,
-    question: "Mehrere Fischarten sterben gleichzeitig. Was ist die Ursache?",
+    question:
+      "In einem Gewässer sterben mehrere Fischarten gleichzeitig. Was ist die vermutliche Ursache?",
     option1: "Umwelteinfluss",
     option2: "Viruserkrankung",
     option3: "Wurmbefall",
   },
   {
     id: 186,
-    question: "Woran erkennt man eine starke Phosphatbelastung im See?",
+    question:
+      "Woran erkenne ich, dass ein See stark mit Phosphaten belastet ist?",
     option1: "Algenblüte, speziell im Sommer",
     option2: "Viele Schnecken",
     option3: "Gute Sichttiefe",
   },
   {
     id: 187,
-    question: "Ist Brot zum Anfüttern von Fischen geeignet?",
-    option1: "Nein, es löst sich auf und zehrt Sauerstoff",
+    question:
+      "Ist zur Anfütterung von Fischen die Verwendung von Brot zu empfehlen?",
+    option1:
+      "Nein, Brot löst sich im Wasser auf und trägt zur Sauerstoffzehrung bei.",
     option2: "Ja, es wirkt als Dünger",
     option3: "Ja, auch für andere Tiere nützlich",
   },
   {
     id: 188,
     question:
-      "Das Vorhandensein von Schwefelwasserstoff (H₂S) im See ist für Fische ...",
-    option1: "nicht förderlich",
+      "Das Vorhandensein von Schwefelwasserstoff (H2S) im See ist für den Fischbestand...",
+    option1: "nicht förderlich.",
     option2: "förderlich",
     option3: "ohne Auswirkungen",
   },
   {
     id: 189,
-    question: "Worauf ist bei Übergabe einer Wasserprobe zu achten?",
+    question: "Worauf ist bei der Übergabe einer Wasserprobe zu achten?",
     option1:
-      "Schriftliche Angaben zu Gewässer, Ort, Datum, Uhrzeit, Probenehmer",
+      "Schriftliche Angaben über: Gewässer und Entnahmestelle, Datum und Uhrzeit der Entnahme Name und Anschrift des Probenehmers, wichtige Beobachtungen",
     option2: "Wasserprobe leicht schütteln",
     option3: "Probenflasche im Kühlschrank lagern",
   },
   {
     id: 190,
-    question: "Wann sind Abwässer für Fische besonders gefährlich?",
-    option1: "Bei niedriger Wasserführung und hohen Temperaturen",
+    question: "Wann können Abwässer den Fischen besonders gefährlich werden?",
+    option1: "Bei geringer Wasserführung und hohen Temperaturen",
     option2: "Nach starkem Regen",
     option3: "Bei niedrigem pH-Wert",
   },
@@ -1434,15 +1441,16 @@ export const quizQuestions: TQuestion[] = [
     id: 191,
     question:
       "Kann der Angelfischer einen Beitrag zur Reinhaltung der Gewässer leisten?",
-    option1: "Ja, indem er seinen Angelplatz sauber hält",
+    option1:
+      "Ja, indem er seinen Angelplatz sauber hinterlässt und nur stark begrenzt Futter und Lockstoffe einsetzt.",
     option2: "Nein, Angler sollen sich aufs Angeln konzentrieren",
     option3: "Nein, diese Aufgabe obliegt den Behörden",
   },
   {
     id: 192,
     question:
-      "Darf ein Angler Strauchwerk am Gewässer entfernen, weil es ihn stört?",
-    option1: "Nein, sofern er keine Genehmigung hat",
+      "Darf ein Angler Strauchwerk am Gewässer entfernen, weil es ihn behindert?",
+    option1: "Nein, sofern er keine verbindliche Rechtsbefugnis besitzt.",
     option2: "Nur, wenn er gleichzeitig Müll einsammelt",
     option3: "Ja, er hat die Pflicht zur Pflege",
   },
@@ -1450,7 +1458,7 @@ export const quizQuestions: TQuestion[] = [
     id: 193,
     question:
       "Fällt achtloses Wegwerfen von Angelschnur unter den Begriff der Umweltverschmutzung?",
-    option1: "Ja, da die Schnur nicht verrottet",
+    option1: "Ja, da die Schnur nicht oder nur schlecht verrottet.",
     option2: "Nein, die Schnur verrottet schnell",
     option3: "Nein, die geringe Menge ist unbedeutend",
   },
