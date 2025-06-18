@@ -2709,4 +2709,933 @@ export const quizQuestions: TQuestion[] = [
     option3:
       "Die Benutzung von Aalschnüren, die mit Einfachhaken bestückt sind.",
   },
+  {
+    id: 361,
+    question: "Worauf ist beim Ausnehmen eines Fisches besonders zu achten?",
+    option1:
+      "Die Gallenblase sollte nicht platzen, anderenfalls den grünlichen Gallensaft sofort mit viel Wasser ausspülen.",
+    option2:
+      "Die Organe werden dem Fisch einzeln entnommen. Die Niere verbleibt im Fischkörper.",
+    option3:
+      "Beim Öffnen der Leibeshöhle das Messer tief führen, damit der Fisch gut ausblutet.",
+  },
+  {
+    id: 362,
+    question:
+      "Woran ist zu erkennen, dass ein Karpfen vor dem Schlachten richtig betäubt ist?",
+    option1: "Am Ausbleiben des Augendrehreflexes",
+    option2: "Am Verblassen der Haut",
+    option3: "Am Aufsperren der Kiemendeckel",
+  },
+  {
+    id: 363,
+    question: "Wie werden Karpfen am Gewässer zweckmäßigerweise betäubt?",
+    option1:
+      "Durch kräftige Schläge auf den Kopf oberhalb der Augen mit einem geeigneten Gegenstand.",
+    option2: "Durch Werfen des Fisches auf festen Boden.",
+    option3: "Durch kräftige Schläge auf den Schwanzstiel.",
+  },
+  {
+    id: 364,
+    question: "Muss ein Fisch (außer Aal) vor dem Schlachten betäubt werden?",
+    option1:
+      "Ja, ein Wirbeltier darf nur unter Betäubung oder sonst nur unter Vermeidung von Schmerzen getötet werden.",
+    option2:
+      "Nein, ein Fisch kann nur richtig ausbluten, wenn noch etwas Leben in ihm ist.",
+    option3:
+      "Nein, die Qualität des Fischfleisches wird durch das Betäuben gemindert.",
+  },
+  {
+    id: 365,
+    question:
+      "Welche Reihenfolge bei der Behandlung maßiger und außerhalb der Schonzeit gefangener Fische ist richtig?",
+    option1: "Betäuben, töten, abködern, versorgen",
+    option2: "Betäuben, abködern, töten, versorgen",
+    option3: "Abködern, betäuben, töten, versorgen",
+  },
+  {
+    id: 366,
+    question:
+      "Bei welchen vom Angelfischer gefangenen Arten kann ein Betäuben vor dem Schlachten unterbleiben?",
+    option1: "Bei Aalen und Plattfischen",
+    option2: "Bei Hecht und Wels",
+    option3: "Bei allen Weißfischarten",
+  },
+  {
+    id: 367,
+    question:
+      "Welche vom Angelfischer gefangenen Fische, die zum Verzehr bestimmt sind, müssen vor dem Töten betäubt werden?",
+    option1: "Alle Fische, außer Aale und Plattfische",
+    option2: "Nur Aale",
+    option3: "Alle Fische",
+  },
+  {
+    id: 368,
+    question: "Wie sind Aale vom Angelfischer zu töten?",
+    option1: "Mit einem Wirbelsäulenschnitt hinter dem Kopf",
+    option2: "Durch einen Herzstich",
+    option3: "Mit einem Schlag auf den Schwanz",
+  },
+  {
+    id: 369,
+    question:
+      "In welchem Körperbereich wird zur Tötung des Karpfens der Herzstich ausgeführt?",
+    option1: "In der Kehlgegend vor den Brustflossen",
+    option2: "Zwischen den Bauchflossen und der Afterflosse",
+    option3: "Zwischen den Brust- und Bauchflossen",
+  },
+  {
+    id: 370,
+    question: "Was ist zu tun, wenn Gallensaft auf das Fischfleisch gelangt?",
+    option1:
+      "Den grünlichen Gallensaft sofort mit viel sauberem Wasser herausspülen.",
+    option2: "Den Fisch verwerfen, da das Fleisch ungenießbar ist.",
+    option3: "Die Bauchhöhle mit Gras reinigen.",
+  },
+  {
+    id: 371,
+    question: "Wie töte ich gefangene Fische tierschutzgerecht?",
+    option1:
+      "Durch Herzstich im Kehlbereich nach vorheriger Betäubung bzw. Wirbelsäulenschnitt hinter dem Kopf (Aal)",
+    option2: "Durch Liegenlassen der Fische im Trockenen",
+    option3: "Durch Aufschneiden der Bauchhöhle",
+  },
+  {
+    id: 372,
+    question:
+      "Für eine Speisefischzubereitung sollten folgende Organe vorrangig entfernt werden?",
+    option1: "Darmtrakt, Gallenblase und Kiemen",
+    option2: "Flossen, Schuppen",
+    option3: "Kiemendeckel",
+  },
+  {
+    id: 373,
+    question:
+      "Worauf sollte beim Schlachten von Barschen und Zandern besonders geachtet werden?",
+    option1: "Auf die Verletzungsgefahr durch die Stachelflossen",
+    option2: "Auf den giftigen Körperschleim",
+    option3: "Auf die Schuppen",
+  },
+  {
+    id: 374,
+    question: "Was ist beim Ausnehmen der Fische zu beachten?",
+    option1:
+      "Das möglichst hygienische Arbeiten und anschließende Reinigung mit sauberem Wasser.",
+    option2: "Die erhebliche Verletzungsgefahr",
+    option3: "Das Tragen spezieller Schutzkleidung",
+  },
+  {
+    id: 375,
+    question: "Muss eine Quappe vor dem Töten betäubt werden?",
+    option1: "Ja, da sie nicht von der Regelung ausgenommen ist.",
+    option2: "Nein, sie gehört zu den ausgenommenen Fischarten.",
+    option3: "Ja, aber nur wenn über 60 cm lang",
+  },
+  {
+    id: 376,
+    question:
+      "Ein Eisangler weidet den gefangenen Fisch aus. Darf er die Eingeweide in das Eisloch geben?",
+    option1: "Nein",
+    option2: "Ja, dies ist eine sinnvolle Winterfütterung",
+    option3: "Ja, aber nur bei lichtdurchlässigem Eis",
+  },
+  {
+    id: 377,
+    question:
+      "Welche rechtlichen Anforderungen sind an das Betäuben oder Töten von Fischen gestellt?",
+    option1: "Sachkunde (Kenntnisse und Fähigkeiten)",
+    option2: "Lehrgang in Erster Hilfe",
+    option3: "Mindestalter von 10 Jahren",
+  },
+  {
+    id: 378,
+    question:
+      "Findet die Tierschutz- und Schlachtverordnung bei der Angelfischerei Anwendung?",
+    option1: "Ja",
+    option2: "Nein",
+    option3: "Ja, wenn Fische auf Parasiten untersucht werden sollten",
+  },
+  {
+    id: 379,
+    question:
+      "Sind bei der Betäubung oder Tötung von Fischen Bestimmungen des Tierschutzes zu beachten?",
+    option1: "Ja",
+    option2: "Nein",
+    option3: "Ja, mit Ausnahme für Cypriniden",
+  },
+  {
+    id: 380,
+    question:
+      "Welches Organ sollte zur Förderung der Haltbarkeitsdauer zusätzlich entfernt werden?",
+    option1: "Kiemen",
+    option2: "Flossen",
+    option3: "Schuppen",
+  },
+  {
+    id: 381,
+    question:
+      "Ist es aus hygienischer Sicht günstig, den geschlachteten Fisch im Gewässer auszuwaschen?",
+    option1: "Nein, das Wasser enthält Keime.",
+    option2:
+      "Ja, die sofortige Entfernung von Blutresten erhöht die Haltbarkeitsdauer.",
+    option3:
+      "Ja, die sofortige Entfernung des Körperschleimes erhöht die Haltbarkeitsdauer.",
+  },
+  {
+    id: 382,
+    question:
+      "Welche Haltbarkeit hat frisch geschlachteter Speisefisch bei 2–8°C?",
+    option1: "Ca. 1 Tag",
+    option2: "Ca. 5 Tage",
+    option3: "Ca. 8 Tage",
+  },
+  {
+    id: 383,
+    question:
+      "Wie sollte ein Fisch, der in 8 Tagen verzehrt wird, gelagert werden?",
+    option1: "Gefrostet bei mindestens -18°C",
+    option2: "Im Kühlschrank bei 4°C",
+    option3: "Im kühlen Raum unter 5°C",
+  },
+  {
+    id: 384,
+    question: "Bei welchen Voraussetzungen eignet sich Fisch zur Frostung?",
+    option1:
+      "Wenn er kurzzeitig nach der Tötung geschlachtet und eingefroren wird",
+    option2: "Wenn er nach der Tötung mindestens einen Tag trocknet",
+    option3: "Wenn er durch Salzung vorbereitet wird",
+  },
+  {
+    id: 385,
+    question:
+      "Welche Möglichkeit besteht, die Lebensmittelqualität getöteter Fische am Fangort zu erhalten?",
+    option1:
+      "Luftige und abgedeckte Lagerung, Schutz vor Licht, Wärme und Wasser",
+    option2: "Durch Herzstich ausbluten",
+    option3: "Lagerung im feuchten Gras",
+  },
+  {
+    id: 386,
+    question: 'Was versteht man unter dem "Kalträuchern"?',
+    option1: "Das längere Räuchern bei geringer Hitzeeinwirkung",
+    option2: "Das Räuchern in der Winterzeit",
+    option3: "Das Räuchern an kalten Sommertagen",
+  },
+  {
+    id: 387,
+    question:
+      "Nennen Sie eine in der Anglerpraxis mögliche Alternative zur Hälterung gefangener Fische?",
+    option1:
+      "Das sofortige weidgerechte Schlachten und Lagern der Fische in Kühltasche",
+    option2: "Das sofortige Zurücksetzen der Fische",
+    option3: "Das sofortige Töten und Aufbewahren im Gewässer",
+  },
+  {
+    id: 388,
+    question:
+      "Welches sind wichtige Voraussetzungen zur Erhaltung einer hohen Lebensmittelqualität bei Fischen?",
+    option1: "Eine kurze Lagerung bei geringen Temperaturen",
+    option2: "Eine lang andauernde Lagerung bei hohen Temperaturen",
+    option3: "Eine Aufbewahrung in dunklen Räumen",
+  },
+  {
+    id: 389,
+    question:
+      "Welche wesentlichen Probleme können durch Lagerung von geschlachteten Fischen auftreten?",
+    option1: "Es kann zu einer Beeinträchtigung der Qualität der Fische kommen",
+    option2: "Es besteht die Gefahr des Diebstahls",
+    option3: "Der Absatz dieser Fische ist nur in ländlichen Gebieten möglich",
+  },
+  {
+    id: 390,
+    question: "Wie muss ein frischer, verzehrtauglicher Fisch beschaffen sein?",
+    option1: "Die Augen sollten klar sein, kein starker Fischgeruch",
+    option2: "Der Fisch sollte eine helle Bauchhöhle aufweisen",
+    option3: "Er sollte möglichst stark nach Fisch riechen",
+  },
+  {
+    id: 391,
+    question: "Woran erkennt man einen nicht mehr verzehrtauglichen Fisch?",
+    option1:
+      "Trübe Augen, starker Fischgeruch und schlechte Fleischbeschaffenheit",
+    option2: "Fehlender starker Fischgeruch, klare Augen",
+    option3: "Intakte Haut, Flossen, rote Kiemen",
+  },
+  {
+    id: 392,
+    question:
+      "Welche sind die wichtigsten Qualitätseinbußen bei langer Lagerung getöteter Fische?",
+    option1:
+      "Zunehmendes Keimwachstum und Veränderung der Fleischbeschaffenheit",
+    option2: "Es gibt keine Qualitätsveränderungen",
+    option3: "Verfärbung von Haut und Kiemendeckeln",
+  },
+  {
+    id: 393,
+    question: "Wie sind Aale mit Nematoden in der Schwimmblase zu behandeln?",
+    option1:
+      "Eingeweide und Schwimmblase vernichten, Restkörper normal verwerten",
+    option2: "Aale schadlos entsorgen",
+    option3: "Aale dem Amtstierarzt übergeben",
+  },
+  {
+    id: 394,
+    question:
+      "Wie sind zur Verwertung bestimmte Fische bei Befall mit Fischegeln zu behandeln?",
+    option1: "Nach Entfernung der Fischegel normal verwerten",
+    option2: "Fische schadlos entsorgen",
+    option3: "Fische zurücksetzen",
+  },
+  {
+    id: 395,
+    question:
+      "Wie lange darf ich einen maßigen Karpfen nach dem Angeln hältern?",
+    option1: "Max. bis zum Ende des Fangtages",
+    option2: "Bis zu 2 Stunden",
+    option3: "Bis zum Morgen des folgenden Tages",
+  },
+  {
+    id: 396,
+    question:
+      "Kann ein ausgenommener Fisch länger genusstauglich aufbewahrt werden als ein nicht ausgenommener Fisch?",
+    option1: "Ja",
+    option2: "Nein",
+    option3:
+      "Nein, sie können unter selben Bedingungen gleich lange aufbewahrt werden.",
+  },
+  {
+    id: 397,
+    question:
+      "An einem Fließgewässer wird ein Ansitzangeln durchgeführt. Dürfen gefangene Fische im Gewässer gehältert werden?",
+    option1: "Ja, aber nur an einer strömungsberuhigten Stelle",
+    option2: "Nein",
+    option3: "Ja, nur mit Genehmigung der unteren Fischereibehörde",
+  },
+  {
+    id: 398,
+    question: "Was ist bei der Verwendung von Köderfischen zu beachten?",
+    option1:
+      "Die Verwendung ist durch Tierschutz- und Fischereigesetze geregelt",
+    option2: "Nur mit Zustimmung des Vereins",
+    option3: "Nur tote Köderfische erlaubt",
+  },
+  {
+    id: 399,
+    question: "Was ist beim Landen eines größeren Fisches zu beachten?",
+    option1: "Ein Unterfangkescher sollte verwendet werden",
+    option2: "So schnell wie möglich herausziehen",
+    option3: "Den Fisch am Maul anheben",
+  },
+  {
+    id: 400,
+    question: "Welcher Grundsatz muss Leitsatz jeder Fischerei sein?",
+    option1: "Keinem Tier ohne vernünftigen Grund Schmerzen zufügen",
+    option2: "So viele Fische wie möglich fangen",
+    option3: "Immer mit Naturködern angeln",
+  },
+  {
+    id: 401,
+    question: "Ein Hecht wird am 2. Februar geangelt. Besteht eine Schonzeit?",
+    option1: "Ja",
+    option2: "Nur in Fließgewässern",
+    option3: "Nein",
+  },
+  {
+    id: 402,
+    question: "Ein Zander wird im Mai geangelt. Besteht eine Schonzeit?",
+    option1: "Ja",
+    option2: "Nein",
+    option3: "Nur in Fließgewässern",
+  },
+  {
+    id: 403,
+    question:
+      "Wie ist ein untermaßiger Fisch, der am Maul gehakt wurde, zu behandeln?",
+    option1:
+      "Vorsichtig mit nassen Händen abködern und unverzüglich ins Wasser zurücksetzen.",
+    option2: "Mit trockenem Tuch abködern.",
+    option3: "Schnur durchtrennen und zurücksetzen.",
+  },
+  {
+    id: 404,
+    question:
+      "Was ist zu tun, wenn ein untermaßiger Fisch den Haken tief geschluckt hat?",
+    option1:
+      "Die Schnur unmittelbar am Maul abschneiden und den Fisch unverzüglich zurücksetzen.",
+    option2: "Den Haken mit einem kräftigen Zug entfernen.",
+    option3: "Den Fisch erst betäuben und dann zurücksetzen.",
+  },
+  {
+    id: 405,
+    question:
+      "Darf der maßige Speisefisch lebend ohne Wasser nach Hause genommen werden?",
+    option1: "Nein",
+    option2: "Ja, wenn er in der Badewanne gehältert wird.",
+    option3: "Ja, mit Ausnahme von Salmoniden",
+  },
+  {
+    id: 406,
+    question:
+      "Was ist die häufigste Folge einer Verletzung der Oberhaut bei Fischen?",
+    option1: "Verpilzung der Wunde",
+    option2: "Geschwürbildung",
+    option3: "Verlust des Gleichgewichtssinns",
+  },
+  {
+    id: 407,
+    question:
+      "Darf ein Angler maßige lebende Fische kurze Strecken (1 km) ohne Wasser transportieren?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, mit Ausnahme von Aalen",
+  },
+  {
+    id: 408,
+    question:
+      "Wann muss der Angler entscheiden, ob er einen maßigen Fisch zurücksetzt?",
+    option1: "Sofort nach dem Fang",
+    option2: "Innerhalb einer Stunde",
+    option3: "Nach Beendigung des Angeltags",
+  },
+  {
+    id: 409,
+    question: "Was ist zu tun, wenn viele untermaßige Fische beißen?",
+    option1: "Fangplatz wechseln",
+    option2: "Fische an anderer Stelle aussetzen",
+    option3: "Gewässereigentümer informieren",
+  },
+  {
+    id: 410,
+    question: "Wie müssen Güte, Material und Form der Hälter beschaffen sein?",
+    option1: "Sie sollen vermeidbare Schädigung der Fische ausschließen.",
+    option2: "Sie unterliegen keinen besonderen Anforderungen.",
+    option3: "Sie müssen in etwa den DIN-Normen entsprechen.",
+  },
+  {
+    id: 411,
+    question: "Der Drill eines Fisches ...",
+    option1:
+      "sollte nur solange andauern, wie unbedingt zur sicheren Landung notwendig.",
+    option2:
+      "sollte kurz sein. Das Risiko des Fischverlustes ist in Kauf zu nehmen.",
+    option3: "sollte ausgedehnt werden, um Chancengleichheit zu verschaffen.",
+  },
+  {
+    id: 412,
+    question: "Was versteht man unter einer Hälterung von Fischen?",
+    option1:
+      "Die tierschutzgerechte, zeitlich befristete Aufbewahrung von lebenden Fischen.",
+    option2: "Das Festhalten der Fische nach dem Drill.",
+    option3: "Die Handhabung gefangener Fische.",
+  },
+  {
+    id: 413,
+    question:
+      "Worauf ist bei der Hälterung von Fischen nach dem Fang besonders zu achten?",
+    option1: "Auf ein ausreichendes, der Fischart entsprechendes Platzangebot",
+    option2: "Auf eine gute Auslastung des Fischhälters",
+    option3: "Auf eine möglichst enge Haltung der Fische.",
+  },
+  {
+    id: 414,
+    question:
+      "Welche Vorteile haben Setzkescher, die den Fischen eine horizontale Bewegungsfreiheit ermöglichen?",
+    option1: "Die Fische können ihrem natürlichen Bewegungsdrang nachkommen.",
+    option2: "Die Maschenweite kann erweitert werden.",
+    option3: "Keine",
+  },
+  {
+    id: 415,
+    question: "Warum ist die senkrechte Aufhängung von Setzkeschern ungünstig?",
+    option1: "Fische haben wenig Bewegungsfreiheit, stoßen an die Wandung.",
+    option2: "Es passen weniger Fische hinein.",
+    option3: "Kann sich leicht am Grund verhaken.",
+  },
+  {
+    id: 416,
+    question:
+      "Zusammenhang zwischen Besatzdichte im Setzkescher und Wohlbefinden?",
+    option1: "Zu hohe Dichte: Bewegungsmangel, Sauerstoffmangel, Verletzungen",
+    option2: "Kein Zusammenhang.",
+    option3: "Fische mögen hohe Dichten.",
+  },
+  {
+    id: 417,
+    question: "Woran erkennt man Sauerstoffmangel bei Fischen?",
+    option1: "Unruhige Atmung, Notatmung an Oberfläche",
+    option2: "Ruhige Atmung",
+    option3: "Trübe Augen, stark anliegende Kiemendeckel",
+  },
+  {
+    id: 418,
+    question:
+      "Welche rechtlichen Bestimmungen sind beim Hältern von Fischen zu beachten?",
+    option1: "Das Tierschutzgesetz",
+    option2: "Die Hygieneverordnung",
+    option3: "Das Naturschutzgesetz",
+  },
+  {
+    id: 419,
+    question:
+      "Weshalb dürfen gehälterte Fische nicht wieder zurückgesetzt werden?",
+    option1:
+      "Damit entfällt der vernünftige Grund für den Fang (Tierschutzgesetz).",
+    option2: "Können nicht mehr abtauchen",
+    option3: "Werden von Artgenossen nicht angenommen.",
+  },
+  {
+    id: 420,
+    question:
+      "Ist das Schlachten und Aufbewahren von Fischen gesetzlich geregelt?",
+    option1: "Ja, in der Tierschutzschlachtverordnung",
+    option2: "Nein, da Fische wechselwarm sind",
+    option3: "Nein, liegt im Ermessen des Anglers",
+  },
+  {
+    id: 421,
+    question: "Was ist in der Tierschutzschlachtverordnung geregelt?",
+    option1: "Fische sind vor dem Schlachten zu betäuben.",
+    option2: "Fische können nach freiem Ermessen geschlachtet werden.",
+    option3: "Bei wechselwarmen Organismen ist kein Regelungsbedarf gegeben.",
+  },
+  {
+    id: 422,
+    question: "Warum sind zu kleine Haken abzulehnen?",
+    option1: "Kleine Haken werden oft zu tief geschluckt.",
+    option2: "Es werden zu viele Fische gefangen.",
+    option3: "Es treten häufig Fehlbisse auf.",
+  },
+  {
+    id: 423,
+    question: "Was ist beim Transport lebender Fische zu beachten?",
+    option1: "Ausreichendes Volumen und Sauerstoffversorgung sicherstellen.",
+    option2: "Fische regelmäßig füttern.",
+    option3: "Transportgefäße möglichst klein halten.",
+  },
+  {
+    id: 424,
+    question: "Genügt ein feuchtes Tuch für den Transport eines Karpfens?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Nur bei Fischen unter 1 kg",
+  },
+  {
+    id: 425,
+    question:
+      "Wie sind cyprinidenartige Fische lebend zur Untersuchung zu bringen?",
+    option1: "In einem Plastebeutel mit 1/3 Wasser, 2/3 Luft.",
+    option2: "In Eis verpackt im Karton.",
+    option3: "In einem feuchten Leinensack.",
+  },
+  {
+    id: 426,
+    question:
+      "Ist die Beförderung verletzter, lebender Fische verboten, wenn sie zum Verzehr bestimmt sind?",
+    option1: "Ja",
+    option2: "Nein",
+    option3: "Ja, nur für Forellen",
+  },
+  {
+    id: 427,
+    question:
+      "Welche Fische dürfen ausnahmsweise ohne Wasser transportiert werden?",
+    option1: "Glasaale",
+    option2: "Karpfenbrut",
+    option3: "Schleie",
+  },
+  {
+    id: 428,
+    question: "Was ist beim Wassertransport lebender Fische sicherzustellen?",
+    option1: "Ausreichende Sauerstoffversorgung",
+    option2: "Zugabe von Medikamenten",
+    option3: "Regelmäßige Fütterung",
+  },
+  {
+    id: 429,
+    question:
+      "Dürfen in einem Fluss gefangene 15 cm Karpfen als Köderfisch verwendet werden?",
+    option1: "Nein",
+    option2: "Ja, wenn sie nicht als Besatzfisch geeignet sind",
+    option3: "Ja",
+  },
+  {
+    id: 430,
+    question:
+      "Welche der aufgeführten Arten dürfen nicht als Köderfische verwendet werden?",
+    option1: "Bachneunauge, Bitterling",
+    option2: "Plötze, Rotfeder",
+    option3: "Güstern, Barsch",
+  },
+  {
+    id: 431,
+    question:
+      "Aus welchen Gründen muss ein gefangenes Bachneunauge sofort zurückgesetzt werden?",
+    option1: "Es zählt zu den ganzjährig geschützten Arten",
+    option2: "Es unterliegt nicht dem Mindestmaß",
+    option3: "Es ist ungenießbar",
+  },
+  {
+    id: 432,
+    question: "Darf sich der Angler einen Schlammpeitzger aneignen?",
+    option1: "Nein, es handelt sich um eine geschützte Art",
+    option2: "Ja, bei Erreichen einer Mindestgröße",
+    option3: "Ja, vom 1. Mai bis 31. Oktober",
+  },
+  {
+    id: 433,
+    question:
+      "Mit der Senke werden Moderlieschen gefangen. Wie ist zu verfahren?",
+    option1: "Sofort schonend zurücksetzen",
+    option2: "Als hervorragenden Köder verwenden",
+    option3: 'Als "Katzenfisch" verfüttern',
+  },
+  {
+    id: 434,
+    question:
+      "Wie lange dürfen mit der Handangel gefangene Fische im Setzkescher gehältert werden?",
+    option1: "Bis zum Ende des Angeltages",
+    option2: "2 Stunden",
+    option3: "1 Stunde",
+  },
+  {
+    id: 435,
+    question: "Wie ermittelt man das Mindestmaß bei Fischen?",
+    option1: "Durch Messen von der Maulspitze bis zur Schwanzflossen-Ende",
+    option2: "Durch Messen von der Rückenflosse bis zur Schwanzflosse",
+    option3: "Durch Messen von der Bauchflosse bis zur Schwanzflosse",
+  },
+  {
+    id: 436,
+    question: "Darf ein am 30. März geangelter Rapfen mitgenommen werden?",
+    option1: "Ja, die Schonzeit beginnt später",
+    option2: "Nein, er ist ganzjährig geschützt",
+    option3: "Nein, die Schonzeit beginnt vorher",
+  },
+  {
+    id: 437,
+    question: "Welches Mindestmaß gilt für den Hecht?",
+    option1: "45 cm",
+    option2: "55 cm",
+    option3: "60 cm",
+  },
+  {
+    id: 438,
+    question: "Welches Mindestmaß gilt für den Karpfen?",
+    option1: "35 cm",
+    option2: "45 cm",
+    option3: "60 cm",
+  },
+  {
+    id: 439,
+    question:
+      "Unter welchen Bedingungen dürfen geangelte Fische im Setzkescher gehältert werden?",
+    option1: "In strömungsberuhigten Bereichen",
+    option2: "In Fließgewässern mit Sauerstoffzufuhr",
+    option3: "Von fahrenden Booten aus nicht erlaubt",
+  },
+  {
+    id: 440,
+    question:
+      "Welche geangelte Fischart muss, unabhängig von ihrer Größe, sofort zurückgesetzt werden?",
+    option1: "Nase",
+    option2: "Aal",
+    option3: "Hecht",
+  },
+  {
+    id: 441,
+    question: "Welche Schonzeit hat die Barbe?",
+    option1: "1. Mai bis 31. Juli",
+    option2: "1. Oktober bis 30. April",
+    option3: "1. Februar bis 30. April",
+  },
+  {
+    id: 442,
+    question:
+      "Ein Wels wird im Juli geangelt. Besteht zu diesem Zeitpunkt eine Schonzeit?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Nur in der Laichzeit",
+  },
+  {
+    id: 443,
+    question:
+      "Beim Eisangeln werden maßige Fische gefangen. Sind diese Fische verwertbar?",
+    option1: "Ja",
+    option2: "Nein, sie gefrieren sofort",
+    option3: "Nein, das ist nicht erlaubt",
+  },
+  {
+    id: 444,
+    question:
+      "Darf der Angler den gefangenen Hecht mit einer Größe von 40 cm mitnehmen?",
+    option1: "Nein, das Mindestmaß beträgt mehr",
+    option2: "Ja",
+    option3: "Ja, der Hecht hat kein Mindestmaß",
+  },
+  {
+    id: 445,
+    question: "Ein Binnenstint wird gefangen. Was ist zu tun?",
+    option1: "Der Fisch ist unverzüglich zurückzusetzen",
+    option2: "Der Fisch ist sofort in ein Aquarium umzusetzen",
+    option3: "Der Fisch ist umgehend zu töten",
+  },
+  {
+    id: 446,
+    question: "Eine Elritze wird gefangen. Was ist zu tun?",
+    option1: "Der Fisch ist unverzüglich zurückzusetzen",
+    option2: "Der Fisch ist sofort in ein Aquarium umzusetzen",
+    option3: "Der Fisch ist umgehend zu töten",
+  },
+  {
+    id: 447,
+    question: "Ein Flussneunauge wird gefangen. Was ist zu tun?",
+    option1: "Der Fisch ist unverzüglich zurückzusetzen",
+    option2: "Der Fisch ist sofort in ein Aquarium umzusetzen",
+    option3: "Der Fisch ist umgehend zu töten",
+  },
+  {
+    id: 448,
+    question: "Ist beim Fang der Fischart Schleie eine Schonzeit zu beachten?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, aber nur in der Laichzeit",
+  },
+  {
+    id: 449,
+    question: "Ist beim Fang der Fischart Aland eine Schonzeit zu beachten?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, aber nur in der Laichzeit",
+  },
+  {
+    id: 450,
+    question:
+      "Ist beim Fang der Fischart Kleine Maräne eine Schonzeit zu beachten?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, aber nur in der Laichzeit",
+  },
+  {
+    id: 451,
+    question: "Ist beim Fang der Fischart Quappe eine Schonzeit zu beachten?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, aber nur in der Laichzeit",
+  },
+  {
+    id: 452,
+    question: "Hat die geschützte Fischart Nase ein Mindestmaß?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, aber nur in bestimmten Gewässern",
+  },
+  {
+    id: 453,
+    question: "Hat die geschützte Fischart Schlammpeitzger ein Mindestmaß?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, aber nur in bestimmten Gewässern",
+  },
+  {
+    id: 454,
+    question:
+      "Für das Hegefischen wurde im Voraus bestimmt, die gefangenen Fische umzusetzen. Wie ist zu verfahren?",
+    option1: "Temperieren vor dem Einsetzen",
+    option2: "Sofort umsetzen",
+    option3: "Nach Größe sortieren",
+  },
+  {
+    id: 455,
+    question:
+      "Darf eine mit der Handangel gefangene untermäßige Schleie in ein anderes Gewässer umgesetzt werden?",
+    option1: "Nein, sie muss in das Fanggewässer zurückgesetzt werden",
+    option2: "Ja",
+    option3: "Ja, aber nur außerhalb der Schonzeit",
+  },
+  {
+    id: 456,
+    question:
+      "Unterliegt ein geschützter Fisch dem Aneignungsrecht des Anglers, wenn er sich beim Fang verletzt hat?",
+    option1: "Nein",
+    option2: "Ja, wenn er nicht überlebensfähig ist",
+    option3: "Ja, wenn er den Haken tief geschluckt hat",
+  },
+  {
+    id: 457,
+    question:
+      "Wie sind maßige Fische zu behandeln, die zum Zeitpunkt des Fangs Milch abgeben?",
+    option1: "Diese Fische sind zurückzusetzen",
+    option2: "Die Milchner können als Besatzfische verwendet werden",
+    option3: "Zwei Stück dürfen verwertet werden",
+  },
+  {
+    id: 458,
+    question: "Welche Fischart ist im lebenden Zustand schwer zu handhaben?",
+    option1: "Aal",
+    option2: "Plötze",
+    option3: "Döbel",
+  },
+  {
+    id: 459,
+    question: "Wie sind beim Hegeangeln anfallende Fische zu verwerten?",
+    option1: "Sinnvollem Zweck zuführen",
+    option2: "Unverzüglich vergraben",
+    option3: "Jeder entscheidet selbst",
+  },
+  {
+    id: 460,
+    question: "Wann ist ein Fisch lebensfähig?",
+    option1: "Schwimmt normal und unverletzt",
+    option2: "Kiemen nicht verblasst",
+    option3: "Maul steht offen",
+  },
+  {
+    id: 461,
+    question: "Dürfen Gartenteich-Zierfische in freie Gewässer?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, aber nur mit Genehmigung",
+  },
+  {
+    id: 462,
+    question: "Welche Fische eignen sich besonders gut zum Räuchern?",
+    option1: "Aale",
+    option2: "Plötzen",
+    option3: "Hechte",
+  },
+  {
+    id: 463,
+    question: "Welche Hölzer werden typischerweise zum Räuchern verwendet?",
+    option1: "Buche, Erle",
+    option2: "Tanne, Lärche",
+    option3: "Tropenhölzer",
+  },
+  {
+    id: 464,
+    question: "Wo hat der Karpfen die meisten Gräten?",
+    option1: "Im Schwanzstück",
+    option2: "Im Kopfstück",
+    option3: "Im Mittelstück",
+  },
+  {
+    id: 465,
+    question: "Welche Fische haben mindere Speisefischqualität?",
+    option1: "Güstern",
+    option2: "Aale",
+    option3: "Zander",
+  },
+  {
+    id: 466,
+    question:
+      "Darf ein geangelter Karpfen mit starkem Rogenansatz verzehrt werden?",
+    option1: "Ja",
+    option2: "Ja, aber nur das Fleisch des Schwanzstückes",
+    option3: "Nein",
+  },
+  {
+    id: 467,
+    question:
+      "Hat sich ein Angler einen geschützten Fisch angeeignet, wenn er ihn im Setzkescher hält?",
+    option1: "Ja",
+    option2: "Nein, wenn er ihn später freilässt",
+    option3: "Nein, wenn er ihn zur Artbestimmung weitergibt",
+  },
+  {
+    id: 468,
+    question: "Welches Mindestmaß ist für ein Angelgewässer verbindlich?",
+    option1: "Das auf der Angelkarte vermerkte, wenn höher als gesetzlich",
+    option2: "Immer das gesetzliche",
+    option3: "Das auf der Angelkarte, auch wenn niedriger als gesetzlich",
+  },
+  {
+    id: 469,
+    question: "Wann hat der Hecht seine beste Fleischqualität?",
+    option1: "Im Herbst",
+    option2: "Im Sommer",
+    option3: "Zur Laichzeit",
+  },
+  {
+    id: 470,
+    question: "Welchen Zweck haben Schonzeiten?",
+    option1: "Ungehinderte Fortpflanzung ermöglichen",
+    option2: "Winterruhe sicherstellen",
+    option3: "Überangebot auf Märkten verhindern",
+  },
+  {
+    id: 471,
+    question: "Was ist ein Setzkescher?",
+    option1: "Ein Kescher zur kurzzeitigen Lebendhälterung gefangener Fische",
+    option2: "Ein Kescher zum Fang von Besatzfischen",
+    option3: "Ein stationäres Fanggerät",
+  },
+  {
+    id: 472,
+    question:
+      "Was ist bei der Fischhälterung zum Erhalt einer guten Fleischqualität zu beachten?",
+    option1: "Die Fische sollen ruhig gehalten werden",
+    option2: "Die Fische müssen stets in Bewegung bleiben",
+    option3: "Die Fische sollen in kaltem Wasser gehalten werden",
+  },
+  {
+    id: 473,
+    question: "Was versteht man unter der Schonzeit einer Fischart?",
+    option1: "Die Zeit, in der die Fischart nicht gefangen werden darf",
+    option2: "Die Zeit nach dem Fang",
+    option3: "Die Zeit der Überwinterung",
+  },
+  {
+    id: 474,
+    question:
+      "Beim Senken auf Köderfische werden auch Edelkrebse gefangen. Was ist zu tun?",
+    option1: "Die Krebse sind sofort zurückzusetzen",
+    option2: "Die Krebse sind der Fischereibehörde zu melden",
+    option3: "Die Krebse sind sofort zu töten",
+  },
+  {
+    id: 475,
+    question: "Können Fische mit der Grießkörnchenkrankheit verzehrt werden?",
+    option1: "Ja",
+    option2: "Nein",
+    option3: "Ja, aber nicht die befallenen Stellen",
+  },
+  {
+    id: 476,
+    question:
+      "Es wird ein untermaßiger Fisch gefangen, der eine künstliche Kennzeichnung trägt. Was ist zu tun?",
+    option1: "Kennzeichnung notieren",
+    option2: "An geschütztem Ort freilassen",
+    option3: "Vorsichtig die Markierung entfernen",
+  },
+  {
+    id: 477,
+    question:
+      "Ein Angler fängt einen ihm unbekannten Fisch. Wie muss er sich verhalten?",
+    option1: "Der Fisch ist schonend in das Gewässer zurückzusetzen",
+    option2: "Der Fisch wird gehältert, bis er bestimmt ist",
+    option3: "Nach weidgerechter Tötung der Behörde melden",
+  },
+  {
+    id: 478,
+    question:
+      "In welchem Zustand sind krankheitsverdächtige Fische zur Untersuchung einzureichen?",
+    option1: "Möglichst lebend oder tiefgefroren",
+    option2: "Ausgenommen, mit Kopf",
+    option3: "Ausgenommen, ohne Kopf",
+  },
+  {
+    id: 479,
+    question:
+      "Können Schadstoffe in Gewässern die Genusstauglichkeit der Fische beeinträchtigen?",
+    option1: "Ja",
+    option2: "Nein",
+    option3: "Ja, aber nur bei Aalen",
+  },
+  {
+    id: 480,
+    question:
+      "Gelten in den Bundesländern einheitliche Mindestmaße für alle Fischarten?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, mit Ausnahme der Nord- und Ostsee",
+  },
 ];
