@@ -2,6 +2,13 @@ import { TQuestion } from "./types";
 
 export const quizQuestions: TQuestion[] = [
   {
+    id: "",
+    question: "",
+    option1: "",
+    option2: "",
+    option3: "",
+  },
+  {
     id: 1,
     question: "Die meisten einheimischen Süßwasserfische gehören zu den ...?",
     option1: "Knochenfischen",
@@ -1363,5 +1370,463 @@ export const quizQuestions: TQuestion[] = [
     option1: "Mit gründlich gesäuberten Glasflaschen bei randvoller Füllung",
     option2: "Mit halber Füllung und sterilem Verschluss.",
     option3: "Nur mit Laborflaschen.",
+  },
+  {
+    id: 182,
+    question: "Welche Maßnahmen sind bei Wasserverunreinigung sofort geboten?",
+    option1: "Meldung an die zuständige Behörde",
+    option2: "Möglichkeiten zur Frischwasserzufuhr prüfen",
+    option3: "Sofortiges Umsetzen geschädigter Fische",
+  },
+  {
+    id: 183,
+    question: "Woran erkennt man ein sauberes Fließgewässer?",
+    option1: "Am Vorkommen von Steinfliegenlarven",
+    option2: "Am Vorkommen von Schlammröhrenwürmern",
+    option3: "Am Vorkommen von Daphnien",
+  },
+  {
+    id: 184,
+    question:
+      "Was hat der Angler zu veranlassen, wenn er viele tote Fische sieht?",
+    option1: "Behörde, Amtstierarzt oder Polizei benachrichtigen",
+    option2: "Tote Fische einsammeln und vergraben",
+    option3: "Bekämpfungsmaßnahmen einleiten",
+  },
+  {
+    id: 185,
+    question: "Mehrere Fischarten sterben gleichzeitig. Was ist die Ursache?",
+    option1: "Umwelteinfluss",
+    option2: "Viruserkrankung",
+    option3: "Wurmbefall",
+  },
+  {
+    id: 186,
+    question: "Woran erkennt man eine starke Phosphatbelastung im See?",
+    option1: "Algenblüte, speziell im Sommer",
+    option2: "Viele Schnecken",
+    option3: "Gute Sichttiefe",
+  },
+  {
+    id: 187,
+    question: "Ist Brot zum Anfüttern von Fischen geeignet?",
+    option1: "Nein, es löst sich auf und zehrt Sauerstoff",
+    option2: "Ja, es wirkt als Dünger",
+    option3: "Ja, auch für andere Tiere nützlich",
+  },
+  {
+    id: 188,
+    question:
+      "Das Vorhandensein von Schwefelwasserstoff (H₂S) im See ist für Fische ...",
+    option1: "nicht förderlich",
+    option2: "förderlich",
+    option3: "ohne Auswirkungen",
+  },
+  {
+    id: 189,
+    question: "Worauf ist bei Übergabe einer Wasserprobe zu achten?",
+    option1:
+      "Schriftliche Angaben zu Gewässer, Ort, Datum, Uhrzeit, Probenehmer",
+    option2: "Wasserprobe leicht schütteln",
+    option3: "Probenflasche im Kühlschrank lagern",
+  },
+  {
+    id: 190,
+    question: "Wann sind Abwässer für Fische besonders gefährlich?",
+    option1: "Bei niedriger Wasserführung und hohen Temperaturen",
+    option2: "Nach starkem Regen",
+    option3: "Bei niedrigem pH-Wert",
+  },
+  {
+    id: 191,
+    question:
+      "Kann der Angelfischer einen Beitrag zur Reinhaltung der Gewässer leisten?",
+    option1: "Ja, indem er seinen Angelplatz sauber hält",
+    option2: "Nein, Angler sollen sich aufs Angeln konzentrieren",
+    option3: "Nein, diese Aufgabe obliegt den Behörden",
+  },
+  {
+    id: 192,
+    question:
+      "Darf ein Angler Strauchwerk am Gewässer entfernen, weil es ihn stört?",
+    option1: "Nein, sofern er keine Genehmigung hat",
+    option2: "Nur, wenn er gleichzeitig Müll einsammelt",
+    option3: "Ja, er hat die Pflicht zur Pflege",
+  },
+  {
+    id: 193,
+    question:
+      "Fällt achtloses Wegwerfen von Angelschnur unter den Begriff der Umweltverschmutzung?",
+    option1: "Ja, da die Schnur nicht verrottet",
+    option2: "Nein, die Schnur verrottet schnell",
+    option3: "Nein, die geringe Menge ist unbedeutend",
+  },
+  {
+    id: 194,
+    question:
+      "Beim Verlassen meines Angelplatzes habe ich für Sauberkeit zu sorgen.",
+    option1: "Ich nehme den Unrat mit",
+    option2: "Ich werfe die Reste in das Wasser",
+    option3: "Ich vergrabe den Unrat im Wald",
+  },
+  {
+    id: 195,
+    question:
+      "Darf zur Ausübung der Angelfischerei das Gelege befahren oder betreten werden?",
+    option1: "Nein",
+    option2: "Ja",
+    option3: "Ja, nur mit Genehmigung",
+  },
+  {
+    id: 196,
+    question:
+      "Was ist vorrangig bei der Auswahl des Angelplatzes am Gewässer zu beachten?",
+    option1:
+      "Der Angelplatz ist so zu wählen, dass keine Vegetation geschädigt wird",
+    option2: "Der Angelplatz ist so zu wählen, dass gute Deckung besteht",
+    option3:
+      "Der Angelplatz ist zu wählen, dass möglichst viele Angler Platz finden",
+  },
+  {
+    id: 197,
+    question:
+      "Was beeinflusst die Artenvielfalt in einem Gewässer am stärksten?",
+    option1: "Die Gewässerstruktur und Wasserqualität",
+    option2: "Die Intensität der Beangelung",
+    option3: "Der Fischbesatz",
+  },
+  {
+    id: 198,
+    question:
+      "Warum dürfen Schilf- und Rohrbereiche (Röhrichte) zur Ausübung der Angelfischerei nicht betreten werden?",
+    option1: "Der Lebensraum der Tier- und Pflanzenwelt wird beeinträchtigt",
+    option2: "In diesem Bereich besteht Verletzungsgefahr",
+    option3:
+      "Die Ausübung der Angelfischerei ist in diesem Bereich nur eingeschränkt möglich",
+  },
+  {
+    id: 199,
+    question:
+      "Wie sollte die Struktur von Fließgewässern für einen ausgewogenen Fischbestand beschaffen sein?",
+    option1:
+      "Mäandrierend mit Wechsel von Gleit- und Prallhängen sowie verschiedensten Ufer- und Grundstrukturen",
+    option2: "Möglichst gerade, nur leicht zugänglich",
+    option3: "Möglichst wenig Ufervegetation",
+  },
+  {
+    id: 200,
+    question:
+      "Wodurch kann die Bisamratte in der Fischerei insbesondere Schäden verursachen?",
+    option1: "Sie untergräbt Dämme.",
+    option2: "Sie frisst Fische.",
+    option3: "Sie stört die Fische in der Winterruhe.",
+  },
+  {
+    id: 201,
+    question:
+      "Auf einem zugefrorenen See liegt eine 15 cm starke Schneedecke. Was wird zur Vermeidung von Sauerstoffmangel empfohlen?",
+    option1: "Das Schieben großflächiger Schneefenster",
+    option2: "Die Fütterung der Fische zur Konditionsstärkung",
+    option3: "Das Schlagen vieler kleiner Eislöcher",
+  },
+  {
+    id: 202,
+    question:
+      "Welche Maßnahme ist zur Vermeidung von Sauerstoffmangel auf großen zugefrorenen Gewässern uneffektiv?",
+    option1: "Schlagen oder Sägen von Eislöchern",
+    option2:
+      "Schaffung von horizontalen Wasserturbulenzen durch Zuflüsse und schwenkbare Belüfter",
+    option3: "Abfegen von Schnee oder Aufpumpen von Wasser auf das Eis",
+  },
+  {
+    id: 203,
+    question: "Welcher dieser Fische frisst höhere Wasserpflanzen?",
+    option1: "Graskarpfen",
+    option2: "Marmorkarpfen",
+    option3: "Silberkarpfen",
+  },
+  {
+    id: 204,
+    question:
+      "Sind Gewässer, in denen Edelkrebse vorkommen, mit Satzaalen zu besetzen?",
+    option1: "Nein, Aale fressen Krebse.",
+    option2: "Ja",
+    option3: "Nein, Satzaale sind bevorzugte Krebsnahrung.",
+  },
+  {
+    id: 205,
+    question:
+      "Wie kann ich in kleinen Teichen Sauerstoffmangel umgehend beseitigen? Durch ...",
+    option1: "Zufluss von O2-reichem Wasser.",
+    option2: "Düngung.",
+    option3: "Kalkung.",
+  },
+  {
+    id: 206,
+    question:
+      "Müssen Wasserpflanzen nach der Krautung von Gräben aus den Gewässern entfernt werden?",
+    option1:
+      "Ja, die Zersetzung kann akuten Sauerstoffmangel im Gewässer bewirken.",
+    option2: "Nein",
+    option3: "Nur bei starker Verschmutzung",
+  },
+  {
+    id: 207,
+    question:
+      "Zu welchen Zeiten sollte die Krautung von Gewässern unterbleiben?",
+    option1:
+      "Während der Schon- und Laichzeiten der jeweils vorkommenden Fischarten",
+    option2: "An Tagen günstigen Angelwetters",
+    option3: "Im Sommer",
+  },
+  {
+    id: 208,
+    question: "Was bewirken Schneefenster auf verschneitem Eis?",
+    option1: "Die Algen im Wasser können Sauerstoff produzieren.",
+    option2: "Die Sonne erwärmt das Wasser und taut das Eis von unten.",
+    option3: "Das helle Sonnenlicht beruhigt die Fische.",
+  },
+  {
+    id: 209,
+    question: "Wozu müssen verbuttete Fischbestände dezimiert werden?",
+    option1: "Zur Sicherung einer dem Gewässer entsprechenden Artenvielfalt.",
+    option2: "Zur Erhöhung des Nahrungsangebotes für Raubfische.",
+    option3: "Zur Verringerung des Jungfischaufkommens.",
+  },
+  {
+    id: 210,
+    question: "Wie kann man kleine, stark eutrophierte Standgewässer sanieren?",
+    option1: "Durch Unterbinden des Nährstoffeintrages und Entschlammung",
+    option2: "Durch jährliche Entnahme der Wasserpflanzen",
+    option3: "Durch Unterlassen der Befischung",
+  },
+  {
+    id: 211,
+    question:
+      "Für welche Fischarten soll man Laichplätze oder Laichhilfen schaffen?",
+    option1:
+      "Für gewässertypische Arten, die sich nicht ausreichend fortpflanzen.",
+    option2: "Nur für Salmoniden",
+    option3: "Nur für Hecht und Zander",
+  },
+  {
+    id: 212,
+    question: "Worin besteht ein wichtiges Ziel einer Seesanierung?",
+    option1: "Nährstoffentzug, Senkung der Algenproduktion",
+    option2: "Erhöhung der Fischstückgewichte",
+    option3: "Verhinderung der Zuwanderung von planktonfressenden Fischen",
+  },
+  {
+    id: 213,
+    question:
+      "Wie kann die Intensität der Algenproduktion in einem Gewässer einfach bestimmt werden?",
+    option1:
+      "Durch Messung der Sichttiefe mit einer genormten runden weißen Scheibe",
+    option2: "Messung des pH-Wertes",
+    option3: "Durch Messung der Wassertemperatur",
+  },
+  {
+    id: 214,
+    question:
+      "Wie sollte der Massenentwicklung von Bleien und Güstern entgegengewirkt werden?",
+    option1:
+      "Über Förderung der Raubfische und eine starke Befischung beider Fischarten (Hegefischen)",
+    option2: "Durch Zerstörung ihrer Laichplätze",
+    option3: "Durch Förderung fischfressender Wasservögel",
+  },
+  {
+    id: 215,
+    question: "Wie sind Laichwiesen zu pflegen und zu fördern?",
+    option1:
+      "Durch Überflutungen im Frühjahr oder Frühsommer und mindestens eine Herbst- bzw. Wintermahd",
+    option2: "Durch absolute Ruhe, ohne zusätzliche Maßnahmen",
+    option3: "Durch ganzjährige, höchstmögliche Überflutung",
+  },
+  {
+    id: 216,
+    question:
+      "Zu Konsumenten, die sich von anderen Pflanzen und Tieren ernähren, gehören die ...",
+    option1: "Fische.",
+    option2: "Pflanzen.",
+    option3: "Bakterien.",
+  },
+  {
+    id: 217,
+    question: "Welche Lebewesen gehören zum tierischen Plankton?",
+    option1: "Hüpferlinge",
+    option2: "Fischbrut",
+    option3: "Mollusken",
+  },
+  {
+    id: 218,
+    question: "Welche Vogelart ernährt sich vorwiegend von Fischen?",
+    option1: "Kormoran",
+    option2: "Wildente",
+    option3: "Wildgans",
+  },
+  {
+    id: 219,
+    question:
+      "Wie gelangen unter natürlichen Verhältnissen die meisten Nährstoffe in die Fließgewässer?",
+    option1:
+      "Durch Auswaschung aus dem von Regen durchnässten Boden des Einzugsgebietes",
+    option2: "Mit dem Quellwasser aus dem Erdinneren",
+    option3: "Durch Winderosion",
+  },
+  {
+    id: 220,
+    question: "Sind Altarme eines Gewässers ökologisch besonders wertvoll?",
+    option1: "Ja, sie bieten für viele Tierarten geeignete Lebensbedingungen.",
+    option2: "Ja, ihr Wasser neigt leicht zur Versauerung.",
+    option3: "Nein, sie neigen zur schnellen Verlandung.",
+  },
+  {
+    id: 221,
+    question:
+      "Was ist in der Verhaltensbiologie unter Fluchtdistanz zu verstehen?",
+    option1: "Die Entfernung, ab der ein Tier vor einem Feind flüchtet",
+    option2: "Sofortiges Wechseln des Angelplatzes",
+    option3: "Kleinstgewässer ohne Zufluss",
+  },
+  {
+    id: 222,
+    question:
+      "Eine Sumpfschildkröte wird in unmittelbarer Nähe des Angelplatzes gesichtet. Was ist zu tun?",
+    option1: "Sofortiges Wechseln des Angelplatzes",
+    option2: "Fang, Vermessung und Meldung an die Fischereibehörde",
+    option3: "Fang, Vermessung und Meldung an die Naturschutzbehörde",
+  },
+  {
+    id: 223,
+    question:
+      "Welche zugefrorenen Gewässer sind besonders stark von der Gefahr einer Ausstickung betroffen?",
+    option1: "Kleinstgewässer ohne Zufluss",
+    option2: "Fließgewässer",
+    option3: "Große durchflossene Gewässer",
+  },
+  {
+    id: 224,
+    question: "Was sind die wichtigsten Naturgüter?",
+    option1: "Wasser, Boden, Luft, Licht",
+    option2: "Habitat, Population, Biotop",
+    option3: "Mensch, Tier, Pflanze",
+  },
+  {
+    id: 225,
+    question: "Dörfliche Kleinteiche sind oft besiedelt mit ...",
+    option1: "Karauschen, Schleien",
+    option2: "Maränen, Forellen",
+    option3: "Äschen, Barben",
+  },
+  {
+    id: 226,
+    question:
+      "Weshalb behindert ein überhöhter Weißfischbestand die Entwicklung des Fischbestandes in naturnaher Artenvielfalt?",
+    option1: "Die Fischnährtiere unterliegen hohem Fraßdruck",
+    option2: "Die Nahrungsgrundlage für Raubfische ist unausgewogen",
+    option3: "Der Weißfischbestand gefährdet die Überwasserpflanzen",
+  },
+  {
+    id: 227,
+    question: "Was zählt zu den technischen Fischaufstiegshilfen?",
+    option1: "Fischpass, Aalleiter, Schleuse, Durchlass für Wasserkraftwerke",
+    option2: "Das Umsetzen von Fischen vom Oberlauf in den Unterlauf",
+    option3: "-",
+  },
+  {
+    id: 228,
+    question:
+      "Weshalb ist im Frühjahr eine ausgedehnte Stauhaltung überfluteter Wiesen anzustreben?",
+    option1: "Damit sich Hechtbrut und Kleinstlebewesen entwickeln können",
+    option2: "Damit sich das Wasser mit Sauerstoff anreichert",
+    option3: "Damit nährstoffreiches Wasser länger zugeführt wird",
+  },
+  {
+    id: 229,
+    question:
+      "Welche Fischart kann durch Anlage von Laichwiesen gefördert werden?",
+    option1: "Hecht",
+    option2: "Maräne",
+    option3: "Zander",
+  },
+  {
+    id: 230,
+    question:
+      "Warum müssen Fließgewässer für Fische durchgängig gehalten werden?",
+    option1: "Damit die Fische ihre Laichplätze erreichen",
+    option2: "Damit alle Fischer Fänge erzielen können",
+    option3: "Damit die Fische bei Niedrigwasser abschwimmen können",
+  },
+  {
+    id: 231,
+    question: "Welchen Zweck erfüllen Laichwiesen?",
+    option1: "Gute Laichbedingungen für pflanzenliebende Fische",
+    option2: "Sie dienen der Aufzucht der Laichfische",
+    option3: "Sie sind Laichplätze für Forellen",
+  },
+  {
+    id: 232,
+    question: "Was ist ein Fischpass?",
+    option1: "Bauwerk zur Überwindung von Hindernissen durch Fische",
+    option2: "Ein spezieller Angelplatz",
+    option3: "Eine Qualifikation zum Fang bestimmter Fischarten",
+  },
+  {
+    id: 233,
+    question: "Was sind Sohlschwellen?",
+    option1: "Niedrige Querbauwerke in Fließgewässern",
+    option2: "Befestigte Gewässerbetten",
+    option3: "Fundamente von Wehren",
+  },
+  {
+    id: 234,
+    question: "Was beschleunigt die Ausstickung unter Eis?",
+    option1: "Schnee und bewölktes Wetter",
+    option2: "Sonnenschein",
+    option3: "Starker Wind",
+  },
+  {
+    id: 235,
+    question: "Was behindert oft die Bewirtschaftung junger Bergbaurestseen?",
+    option1: "Saures Wasser, geringe Fruchtbarkeit, fehlende Gelegezone",
+    option2: "Zu hoher Raubfischanteil",
+    option3: "Zu hohes Planktonaufkommen",
+  },
+  {
+    id: 236,
+    question:
+      "Kann sich ein zu hoher Karpfenbestand auf die Unterwasserpflanzen auswirken?",
+    option1: "Ja",
+    option2: "Nein",
+    option3: "Ja, nur in pflanzenarmen Gewässern",
+  },
+  {
+    id: 237,
+    question: "Was versteht man unter der Selbstreinigung eines Gewässers?",
+    option1: "Abbau der Schmutzstoffe durch biochemische Prozesse",
+    option2: "Absetzen der Schmutzstoffe am Gewässergrund",
+    option3: "Reduktion unerwünschter Fische durch Raubfische",
+  },
+  {
+    id: 238,
+    question: "Was versteht man unter Fischhege?",
+    option1: "Maßnahmen zum Schutz eines artenreichen Fischbestandes",
+    option2: "Einsatz und Pflege möglichst vieler Arten",
+    option3: "Pflege von Ufer- und Wasserpflanzen",
+  },
+  {
+    id: 239,
+    question: "Wie zeigt der Angelfischer, dass er Umweltschützer ist?",
+    option1: "Sauberer Angelplatz, ruhiges Verhalten, schonender Umgang",
+    option2: "Spenden an Umweltverbände",
+    option3: "Werbung für Naturschutz",
+  },
+  {
+    id: 240,
+    question: "Haben intakte Buhnenfelder einen hohen fischereilichen Wert?",
+    option1:
+      "Ja, sie ersetzen verlorene Gewässerteile und haben hohe Produktivität",
+    option2: "Nein, sie sind künstliche Strukturen",
+    option3: "Nein, es fehlen geeignete Unterstände",
   },
 ];
