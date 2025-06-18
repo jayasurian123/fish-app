@@ -109,14 +109,12 @@ const App: React.FC = () => {
           setWrongAnswerIds(updatedWrongIds);
           saveWrongAnswerIds(updatedWrongIds);
         }
-        setAnswerFeedbackMessage("Correct Answer!");
       } else {
         if (!wrongAnswerIds.includes(currentQuestion.id)) {
           const updatedWrongIds = [...wrongAnswerIds, currentQuestion.id];
           setWrongAnswerIds(updatedWrongIds);
           saveWrongAnswerIds(updatedWrongIds);
         }
-        setAnswerFeedbackMessage("Incorrect Answer!");
       }
 
       setUserAnswers((prevAnswers) => [
