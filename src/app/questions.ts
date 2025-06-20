@@ -1773,7 +1773,8 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 232,
     question: "Was ist ein Fischpass?",
-    option1: "Bauwerk zur Überwindung von Hindernissen durch Fische",
+    option1:
+      "Ein spezielles Bauwerk, das den Fischen die Überwindung von Hindernissen (z.B. Stauwehr) ermöglicht.",
     option2: "Ein spezieller Angelplatz",
     option3: "Eine Qualifikation zum Fang bestimmter Fischarten",
   },
@@ -1793,15 +1794,17 @@ export const quizQuestions: TQuestion[] = [
   },
   {
     id: 235,
-    question: "Was behindert oft die Bewirtschaftung junger Bergbaurestseen?",
-    option1: "Saures Wasser, geringe Fruchtbarkeit, fehlende Gelegezone",
+    question:
+      "Wodurch wird oftmals die Bewirtschaftung junger Bergbaurestseen behindert ?",
+    option1:
+      "Durch saures Wasser, geringe Fruchtbarkeit sowie fehlende Gelegezone",
     option2: "Zu hoher Raubfischanteil",
     option3: "Zu hohes Planktonaufkommen",
   },
   {
     id: 236,
     question:
-      "Kann sich ein zu hoher Karpfenbestand auf die Unterwasserpflanzen auswirken?",
+      "Kann sich ein zu hoher Karpfenbestand auf die Unterwasserpflanzen im Gewässer auswirken?",
     option1: "Ja",
     option2: "Nein",
     option3: "Ja, nur in pflanzenarmen Gewässern",
@@ -1809,36 +1812,41 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 237,
     question: "Was versteht man unter der Selbstreinigung eines Gewässers?",
-    option1: "Abbau der Schmutzstoffe durch biochemische Prozesse",
+    option1:
+      "Die Verringerung und der Abbau der Schmutzstoffe im Wasser durch biochemische Prozesse",
     option2: "Absetzen der Schmutzstoffe am Gewässergrund",
     option3: "Reduktion unerwünschter Fische durch Raubfische",
   },
   {
     id: 238,
     question: "Was versteht man unter Fischhege?",
-    option1: "Maßnahmen zum Schutz eines artenreichen Fischbestandes",
+    option1:
+      "Alle Maßnahmen, die dem Schutz und der Pflege eines gewässerspezifisch- artenreichen Fischbestandes dienen",
     option2: "Einsatz und Pflege möglichst vieler Arten",
     option3: "Pflege von Ufer- und Wasserpflanzen",
   },
   {
     id: 239,
-    question: "Wie zeigt der Angelfischer, dass er Umweltschützer ist?",
-    option1: "Sauberer Angelplatz, ruhiges Verhalten, schonender Umgang",
+    question:
+      "Wie kann der Angelfischer nachhaltig zeigen, dass er auch Umweltschützer ist?",
+    option1:
+      "Durch Sauberhaltung seines Angelplatzes und gewässers, ruhiges Verhalten in der Natur und schonenden Umgang mit Tieren und Pflanzen",
     option2: "Spenden an Umweltverbände",
     option3: "Werbung für Naturschutz",
   },
   {
     id: 240,
-    question: "Haben intakte Buhnenfelder einen hohen fischereilichen Wert?",
+    question:
+      "Haben intakte (nicht verlandete) Buhnenfelder einen hohen fischereilichen Wert?",
     option1:
-      "Ja, sie ersetzen verlorene Gewässerteile und haben hohe Produktivität",
+      "Ja, sie ersetzen verlorengegangene Nebengewässer und weisen eine hohe Bioproduktion auf.",
     option2: "Nein, sie sind künstliche Strukturen",
     option3: "Nein, es fehlen geeignete Unterstände",
   },
   {
     id: 241,
     question:
-      "Was versteht man bei einer Angelrute unter dem Begriff 'Aktion'?",
+      'Was versteht man bei einer Angelrute unter dem Begriff "Aktion"?',
     option1: "Die Form und Art der Biegekurve unter Belastung",
     option2: "Die Rutenlänge",
     option3: "Die Stärke der Rute",
@@ -1846,7 +1854,7 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 242,
     question:
-      "Nach welchen Gesichtspunkten soll das Angelgerät zusammengestellt werden?",
+      "Nach welchen Gesichtspunkten soll das Angelgerät zusammengestel werden?",
     option1: "Nach der Zweckmäßigkeit und Fischweidgerechtigkeit",
     option2: "Nach Kostengesichtspunkten",
     option3: "Nach optischen Gesichtspunkten",
@@ -1854,7 +1862,7 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 243,
     question:
-      "Berechtigt der Fischereischein zur Benutzung von Legeangeln (Aalschnur)?",
+      "Berechtigt der Fischereischein, der nach bestandener Anglerprüfung erteilt wird, zur Benutzung von Legeangeln (Aalschnur)?",
     option1: "Nein",
     option2: "Ja, aber nur mit totem Köderfisch",
     option3: "Ja",
@@ -1877,7 +1885,7 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 246,
     question: "Wozu dient ein Wirbel?",
-    option1: "Er vermeidet Schnurverdrehungen",
+    option1: "Er vermeidet Schnurverdrehungen.",
     option2: "Er lockt den Fisch an",
     option3: "Er vermeidet Hänger",
   },
@@ -1927,7 +1935,7 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 253,
     question: "Welche der Gerätekombinationen ist korrekt?",
-    option1: "Für Karpfen: Lange Rute, Schnurdurchmesser 0,30 mm, 3-er Haken",
+    option1: "Für Karpfen: Lange Rute, Schnurdurchmesser 0,30mm, 3-er Haken",
     option2: "Für Karpfen: Kurze Rute, dünne Schnur, 5-er Haken",
     option3: "Für Forelle: Lange Rute, 0,60 mm Schnur",
   },
