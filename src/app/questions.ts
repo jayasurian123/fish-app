@@ -1465,8 +1465,8 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 194,
     question:
-      "Beim Verlassen meines Angelplatzes habe ich für Sauberkeit zu sorgen.",
-    option1: "Ich nehme den Unrat mit",
+      "Beim Verlassen meines Angelplatzes habe ich für absolute Sauberkeit zu sorgen. Wie erfolgt das?",
+    option1: "Ich nehme den Unrat mit nach Hause zur dortigen Entsorgung.",
     option2: "Ich werfe die Reste in das Wasser",
     option3: "Ich vergrabe den Unrat im Wald",
   },
@@ -1481,9 +1481,9 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 196,
     question:
-      "Was ist vorrangig bei der Auswahl des Angelplatzes am Gewässer zu beachten?",
+      "Was ist vorrangig bei der Auswahl des Angelplatzes am Gewässerufer zu beachten?",
     option1:
-      "Der Angelplatz ist so zu wählen, dass keine Vegetation geschädigt wird",
+      "Der Angelplatz ist so auszuwählen, dass die Ufervegetation nicht wesentlich geschädigt und die Tierwelt nicht gestört wird.",
     option2: "Der Angelplatz ist so zu wählen, dass gute Deckung besteht",
     option3:
       "Der Angelplatz ist zu wählen, dass möglichst viele Angler Platz finden",
@@ -1492,15 +1492,16 @@ export const quizQuestions: TQuestion[] = [
     id: 197,
     question:
       "Was beeinflusst die Artenvielfalt in einem Gewässer am stärksten?",
-    option1: "Die Gewässerstruktur und Wasserqualität",
+    option1: "Die Gewässerstruktur und die Wasserqualität",
     option2: "Die Intensität der Beangelung",
     option3: "Der Fischbesatz",
   },
   {
     id: 198,
     question:
-      "Warum dürfen Schilf- und Rohrbereiche (Röhrichte) zur Ausübung der Angelfischerei nicht betreten werden?",
-    option1: "Der Lebensraum der Tier- und Pflanzenwelt wird beeinträchtigt",
+      "Warum dürfen Schilf- und Rohrbereiche (Röhrichte) zur Ausübung der Angelfischerei nicht betreten oder befahren werden?",
+    option1:
+      "Der Lebensraum der Tier- und Pflanzenwelt wird beeinträchtigt oder sogar vernichtet.",
     option2: "In diesem Bereich besteht Verletzungsgefahr",
     option3:
       "Die Ausübung der Angelfischerei ist in diesem Bereich nur eingeschränkt möglich",
@@ -1517,7 +1518,7 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 200,
     question:
-      "Wodurch kann die Bisamratte in der Fischerei insbesondere Schäden verursachen?",
+      "Wodurch kann die Bisamratte in der Fischerei insbesondere Schäder verursachen?",
     option1: "Sie untergräbt Dämme.",
     option2: "Sie frisst Fische.",
     option3: "Sie stört die Fische in der Winterruhe.",
@@ -1558,7 +1559,7 @@ export const quizQuestions: TQuestion[] = [
     id: 205,
     question:
       "Wie kann ich in kleinen Teichen Sauerstoffmangel umgehend beseitigen? Durch ...",
-    option1: "Zufluss von O2-reichem Wasser.",
+    option1: "Zufluss von O₂-reichem Wasser.",
     option2: "Düngung.",
     option3: "Kalkung.",
   },
@@ -1590,14 +1591,15 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 209,
     question: "Wozu müssen verbuttete Fischbestände dezimiert werden?",
-    option1: "Zur Sicherung einer dem Gewässer entsprechenden Artenvielfalt.",
+    option1: "Zur Sicherung einer dem Gewässer entsprechender Artenvielfalt.",
     option2: "Zur Erhöhung des Nahrungsangebotes für Raubfische.",
     option3: "Zur Verringerung des Jungfischaufkommens.",
   },
   {
     id: 210,
     question: "Wie kann man kleine, stark eutrophierte Standgewässer sanieren?",
-    option1: "Durch Unterbinden des Nährstoffeintrages und Entschlammung",
+    option1:
+      "Durch Unterbinden des Nährstoffeintrages aus dem Einzugsgebiet und Entschlammung",
     option2: "Durch jährliche Entnahme der Wasserpflanzen",
     option3: "Durch Unterlassen der Befischung",
   },
@@ -1639,14 +1641,14 @@ export const quizQuestions: TQuestion[] = [
     id: 215,
     question: "Wie sind Laichwiesen zu pflegen und zu fördern?",
     option1:
-      "Durch Überflutungen im Frühjahr oder Frühsommer und mindestens eine Herbst- bzw. Wintermahd",
+      "Durch Überflutungen im Frühjahr oder Frühsommer und mindestens eine Herbst bzw. Wintermahd",
     option2: "Durch absolute Ruhe, ohne zusätzliche Maßnahmen",
     option3: "Durch ganzjährige, höchstmögliche Überflutung",
   },
   {
     id: 216,
     question:
-      "Zu Konsumenten, die sich von anderen Pflanzen und Tieren ernähren, gehören die ...",
+      "Zu Konsumenten, die sich von anderen Pflanzen und Tieren ernährei gehören die ...",
     option1: "Fische.",
     option2: "Pflanzen.",
     option3: "Bakterien.",
@@ -1685,7 +1687,8 @@ export const quizQuestions: TQuestion[] = [
     id: 221,
     question:
       "Was ist in der Verhaltensbiologie unter Fluchtdistanz zu verstehen?",
-    option1: "Die Entfernung, ab der ein Tier vor einem Feind flüchtet",
+    option1:
+      "Die Entfernung, ab welcher ein Tier vor einem wirklichen oder vermeindlichen Feind flüchtet.",
     option2: "Sofortiges Wechseln des Angelplatzes",
     option3: "Kleinstgewässer ohne Zufluss",
   },
@@ -1723,29 +1726,31 @@ export const quizQuestions: TQuestion[] = [
     id: 226,
     question:
       "Weshalb behindert ein überhöhter Weißfischbestand die Entwicklung des Fischbestandes in naturnaher Artenvielfalt?",
-    option1: "Die Fischnährtiere unterliegen hohem Fraßdruck",
+    option1:
+      "Die Fischnährtiere unterliegen einem unverhältnismäßig hohem Fraẞdruck.",
     option2: "Die Nahrungsgrundlage für Raubfische ist unausgewogen",
     option3: "Der Weißfischbestand gefährdet die Überwasserpflanzen",
   },
   {
     id: 227,
     question: "Was zählt zu den technischen Fischaufstiegshilfen?",
-    option1: "Fischpass, Aalleiter, Schleuse, Durchlass für Wasserkraftwerke",
+    option1: "Fischpass, Aalleiter",
     option2: "Das Umsetzen von Fischen vom Oberlauf in den Unterlauf",
     option3: "-",
   },
   {
     id: 228,
     question:
-      "Weshalb ist im Frühjahr eine ausgedehnte Stauhaltung überfluteter Wiesen anzustreben?",
-    option1: "Damit sich Hechtbrut und Kleinstlebewesen entwickeln können",
+      "Weshalb ist im Frühjahr auf eine ausgedehnte Stauhaltung überfluteter Wiesen anzustreben?",
+    option1:
+      "Damit sich Hechtbrut und Kleinstlebewesen ausreichend entwickeln können.",
     option2: "Damit sich das Wasser mit Sauerstoff anreichert",
     option3: "Damit nährstoffreiches Wasser länger zugeführt wird",
   },
   {
     id: 229,
     question:
-      "Welche Fischart kann durch Anlage von Laichwiesen gefördert werden?",
+      "Welche Fischart kann durch Anlage von Laichwiesen in ihrer natürlichen Reproduktion gefördert werden?",
     option1: "Hecht",
     option2: "Maräne",
     option3: "Zander",
@@ -1754,14 +1759,14 @@ export const quizQuestions: TQuestion[] = [
     id: 230,
     question:
       "Warum müssen Fließgewässer für Fische durchgängig gehalten werden?",
-    option1: "Damit die Fische ihre Laichplätze erreichen",
+    option1: "Damit die Fische ihre Laichplätze erreichen.",
     option2: "Damit alle Fischer Fänge erzielen können",
     option3: "Damit die Fische bei Niedrigwasser abschwimmen können",
   },
   {
     id: 231,
     question: "Welchen Zweck erfüllen Laichwiesen?",
-    option1: "Gute Laichbedingungen für pflanzenliebende Fische",
+    option1: "Hier finden die pflanzenliebenden Fische gute Laichbedingungen.",
     option2: "Sie dienen der Aufzucht der Laichfische",
     option3: "Sie sind Laichplätze für Forellen",
   },
