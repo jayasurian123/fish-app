@@ -1942,14 +1942,15 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 254,
     question: "Weshalb ist das Fliegenfischen die schonendste Angelmethode?",
-    option1: "Weil der Fisch fast immer in der vorderen Maulpartie gehakt wird",
+    option1:
+      "Weil der Fisch fast immer in der vorderen Maulpartie gehakt wird.",
     option2: "Weil kleinere Haken verwendet werden",
     option3: "Weil Fliegen keine Schmerzen verursachen",
   },
   {
     id: 255,
     question:
-      "Welche Fangmethode ist für den Inhaber einer Raubfischangelkarte erlaubt?",
+      "Welche Fangmethode ist für den Inhaber einer Raubfischangelkarte erlaubt ?",
     option1: "Die Verwendung eines Stahlvorfachsystems mit totem Köderfisch",
     option2: "Die Verwendung eines Aalkorbs",
     option3: "Das Grundangeln mit Teig",
@@ -1966,7 +1967,7 @@ export const quizQuestions: TQuestion[] = [
     id: 257,
     question:
       "Wieviele Köderfische oder Krebsköder bzw. wieviele Teile von diesen sind je Handangel zulässig?",
-    option1: "Nur ein Köder bzw. ein Teil davon",
+    option1: "Nur ein Köder bzw. nur ein Fetzenköder",
     option2: "Zwei ganze Köder",
     option3: "Unbegrenzt viele Teile",
   },
@@ -1979,7 +1980,8 @@ export const quizQuestions: TQuestion[] = [
   },
   {
     id: 259,
-    question: "Welche Fischarten kann man mit einem Spinnköder fangen?",
+    question:
+      "Welche Fischarten kann man in der Regel mit einem Spinnköder fangen?",
     option1: "Hecht und Barsch",
     option2: "Karpfen und Aal",
     option3: "Güster und Stint",
@@ -1994,14 +1996,14 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 261,
     question: "Wozu dient die Bremse der Stationärrolle?",
-    option1: "Zur Vermeidung des Schnurbruchs",
+    option1: "Zur Vermeidung des Schnurbruchs (bei richtiger Einstellung)",
     option2: "Zum sicheren Anhieb",
     option3: "Zum schnellen Herankurbeln",
   },
   {
     id: 262,
     question:
-      "Für welche Fischarten sind starkdrähtige Haken mit kurzem Schaft geeignet?",
+      "Zum Fang welcher Fischarten sind starkdrähtige Haken mit kurzem Schaft geeignet?",
     option1: "Barben, Karpfen",
     option2: "Plötzen, Saiblinge",
     option3: "Moderlieschen, Steinbeißer",
@@ -2016,50 +2018,52 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 264,
     question: "Worauf muss während des Drills geachtet werden?",
-    option1: "Stete Spannung der Schnur",
+    option1:
+      "Durch stete Spannung der Schnur ist Fühlung mit dem Fisch zu halten.",
     option2: "Möglichst lockere Schnurführung",
     option3: "Schneller Fang auch bei Risiko",
   },
   {
     id: 265,
     question: "Wie beeinflussen Knoten die Tragkraft der Angelschnur?",
-    option1: "Tragkraft ist geringer am Knoten",
+    option1: "Am Knoten ist die Tragkraft geringer.",
     option2: "Keine Beeinflussung",
     option3: "Tragkraft ist größer am Knoten",
   },
   {
     id: 266,
     question:
-      "Die ersten Meter der Schnur sind aufgeraut. Wie verhält sich der Angler?",
-    option1: "Aufgerauten Teil abschneiden",
+      "Die ersten Meter der Schnur sind aufgerauht. Wie verhält sich der Angler?",
+    option1: "Er schneidet den aufgerauhten Teil ab.",
     option2: "Schnur einfetten",
     option3: "Weiterangeln",
   },
   {
     id: 267,
     question: "Was ist ein Krautblinker?",
-    option1: "Blinker mit Hängerschutz",
+    option1: "Blinker mit gegen Hänger geschützten Haken",
     option2: "Blinker mit Pflanzen zur Tarnung",
     option3: "Mit Metallfolie beklebter Blinker",
   },
   {
     id: 268,
     question:
-      "Warum hat das Stippangeln in eutrophen Gewässern mit Weißfischen ökologische Bedeutung?",
-    option1: "Entfernt Bleie und Güster",
+      'Warum hat das "Stippangeln" in eutrophen Gewässern mit einem Massenaufkommen von Weißfischen ökologische Bedeutung?',
+    option1:
+      "Es dient vorrangig der Entnahme von Bleien und Güstern zur Verbesserung der Artenzusammensetzung des Fischbestandes.",
     option2: "Dient der Entenfütterung",
     option3: "Entfernt kleinwüchsige Hechte",
   },
   {
     id: 269,
-    question: "Welche Bedeutung haben künstliche Köder?",
-    option1: "Effektiv, können Naturköder ersetzen",
+    question: "Welche angelfischereiliche Bedeutung haben künstliche Köder?",
+    option1: "Sie sind fängig und können den Naturköder ersetzen.",
     option2: "Keine, zu teuer",
     option3: "Immer schlechter als lebende Köderfische",
   },
   {
     id: 270,
-    question: "Welcher Köder ist für Quappen wenig geeignet?",
+    question: "Welcher Köder verspricht beim Quappenfang wenig Erfolg?",
     option1: "Brotteig",
     option2: "Tauwurm",
     option3: "Fetzenköder",
@@ -2067,42 +2071,45 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 271,
     question: "Für welchen Karpfenfisch ist die Kirsche ein guter Köder?",
-    option1: "Döbel",
+    option1: "Für den Döbel",
     option2: "Güster",
     option3: "Schleie",
   },
   {
     id: 272,
-    question: "Welcher Schnurdurchmesser für große Fische in Gestrüpp?",
+    question:
+      "Zum Fang von kapitalen Fischen in Gewässern mit Strauchwerk wähle ich welchen Schnurdurchmesser?",
     option1: "Über 0,40 mm",
     option2: "Unter 0,20 mm",
     option3: "0,30 mm",
   },
   {
     id: 273,
-    question: "Wo wird die Senke üblicherweise zum Köderfischfang eingesetzt?",
-    option1: "Ufer mit Plötzen, Barschen, Güstern",
+    question:
+      "Die Senke dient zum Fang von Köderfischen. Wo wird sie in der Regel eingesetzt.",
+    option1: "Im Uferbereich mit Plötzen, Barschen und Güstern",
     option2: "Tümpel mit Bitterlingen",
     option3: "Bach mit Neunaugen, Saiblingen",
   },
   {
     id: 274,
-    question: "Ist das Hechtdröhnen erlaubt?",
+    question:
+      'Das "Hechtdröhnen" ist eine Methode, unter dem Eis stehende Hechte zu fangen. Ist diese erlaubt?',
     option1: "Nein",
     option2: "Ja",
     option3: "Ja, mit Genehmigung",
   },
   {
     id: 275,
-    question: "Wozu dient der Unterfangkescher?",
-    option1: "Anlanden des Fanges",
+    question: "Wozu dient dem Angler ein Unterfangkescher?",
+    option1: "Zum Anlanden des Fanges",
     option2: "Hältern gefangener Fische",
     option3: "Aufbewahrung von Zubehör",
   },
   {
     id: 276,
     question: "Wozu ist die Senke ausschließlich zu benutzen?",
-    option1: "Fang von Köderfischen",
+    option1: "Zum Fang von Köderfischen",
     option2: "Fang von Speisezandern",
     option3: "Glasaalfang",
   },
@@ -2116,7 +2123,7 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 278,
     question:
-      "Welche Fangtiefe ist an sonnigen Sommertagen für Schleie unter Seerosenblättern ideal?",
+      "An sonnigen Sommertagen hält sich die Schleie gerne unter Seerosenblättern auf. Welche Fangtiefe sollte gewählt werden?",
     option1: "0,30 - 1,0 m",
     option2: "2 - 3 m",
     option3: "5 m",
@@ -2145,14 +2152,16 @@ export const quizQuestions: TQuestion[] = [
   },
   {
     id: 282,
-    question: "Ist das Zurücksetzen gehälterter, untermaßiger Fische zulässig?",
+    question:
+      "Ist das Zurücksetzen der kleinsten von geangelten und nachfolgend gehälterten Fischen zulässig?",
     option1: "Nein",
     option2: "Ja",
     option3: "Ja, aber nur in Fließgewässern",
   },
   {
     id: 283,
-    question: "Ist der Unterfangkescher ein zulässiges Hilfsgerät?",
+    question:
+      "Ist der Unterfangkescher ein für den Angler zulässiges Hilfsgerät?",
     option1: "Ja",
     option2: "Nein",
     option3: "Ja, aber nur mit Fischereischein A",
@@ -2167,13 +2176,14 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 285,
     question: "Im Land Brandenburg sind Angelhaken zulässig mit ...",
-    option1: "3 Spitzen",
+    option1: "3 Spitzen.",
     option2: "4 Spitzen",
     option3: "5 Spitzen",
   },
   {
     id: 286,
-    question: "Darf man tiefgefrorenen Köderfisch verwenden?",
+    question:
+      "Darf man tiefgefrorenen Köderfisch aus anderen Gewässern zum Angeln verwenden?",
     option1: "Ja",
     option2: "Nein",
     option3: "Nur im Winter",
@@ -2194,22 +2204,25 @@ export const quizQuestions: TQuestion[] = [
   },
   {
     id: 289,
-    question: "Was unterscheidet die Flugangel von anderen Angelgeräten?",
-    option1: "Schnur und Köder stellen das Wurfgewicht dar",
+    question:
+      "Wodurch unterscheidet sich die Flugangel von anderen Angelgeräten?",
+    option1: "Schnur und Köder stellen das Wurfgewicht dar.",
     option2: "Mindestens 3 Haken über Größe 8",
     option3: "Wurfgewicht ist in Gleitpose",
   },
   {
     id: 290,
     question: "Was ist für die Spinnangel charakteristisch?",
-    option1: "Köder wird aktiv vom Angler geführt",
+    option1:
+      "Rute und Rolle, bei deren Handhabung der Köder vom Angler ständig bewegt wird.",
     option2: "Künstliche Spinne wird ausgelegt",
     option3: "Geflochtene Schnur",
   },
   {
     id: 291,
-    question: "Wieviele Haken dürfen an Wobblern verwendet werden?",
-    option1: "Maximal 3",
+    question:
+      "Wieviele Haken dürfen an Wobblern und Spinnsystemen für tote Köderfische verwendet werden?",
+    option1: "Maximal 3 Haken",
     option2: 2,
     option3: 1,
   },
@@ -2222,7 +2235,7 @@ export const quizQuestions: TQuestion[] = [
   },
   {
     id: 293,
-    question: "Darf eine Lampe zum Anlocken verwendet werden?",
+    question: "Darf der Angler eine Lampe zum Anlocken der Fische verwenden?",
     option1: "Nein",
     option2: "Ja",
     option3: "Nur wenn keine Schonzeit besteht",
@@ -2230,7 +2243,7 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 294,
     question:
-      "Darf der Angler einem 13-jährigen Begleiter den Köderfischfang mit dem Senknetz überlassen?",
+      "Darf der Angler einem 13jährigen Begleiter den Köderfischfang mit dem Senknetz überlassen?",
     option1: "Nein",
     option2: "Ja",
     option3: "Ja, nur wenn die Erlaubnis des Gewässereigentümers vorliegt.",
@@ -2278,7 +2291,7 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 300,
     question: "Ein Spinner hat im Gegensatz zu einem Blinker ...?",
-    option1: "ein um eine Achse rotierendes Blatt",
+    option1: "ein um eine Achse rotierendes Blatt.",
     option2: "die rote Färbung",
     option3: "einen besonders langschenkligen Drilling",
   },
@@ -2293,7 +2306,7 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 302,
     question: "Was ist eine Rachensperre?",
-    option1: "Ein Gerät zur Maulsperrung bei der Hakenentfernung",
+    option1: "Ein Hilfsgerät zum Aufsperren des Rachens bei gefangenen Hechten",
     option2: "Ein Futterspender",
     option3: "Ein Drillgerät",
   },
@@ -2307,7 +2320,8 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 304,
     question: "Was wird als Wickelblei bezeichnet?",
-    option1: "Ein dünner, flexibler Bleistreifen zum Austarieren",
+    option1:
+      "Ein dünner, flexibler Bleistreifen zum Austarieren der Angelmontage",
     option2: "Eine Bleiolive zum Aufwickeln von Schnurresten",
     option3: "Ein Sargblei",
   },
@@ -2322,7 +2336,7 @@ export const quizQuestions: TQuestion[] = [
     id: 306,
     question:
       "Welche Materialien werden im modernen Rutenbau am häufigsten verwendet?",
-    option1: "Glasfaser, Kohlefaser, Siliconcarbid-Mischfasern",
+    option1: "Glasfaser, Kohlefaser und Mischfasern aus Siliconcarbid",
     option2: "Plaste, Balsaholz, Bambus",
     option3: "Holz, Tonkingrohr, Bambus",
   },
@@ -2330,7 +2344,7 @@ export const quizQuestions: TQuestion[] = [
     id: 307,
     question:
       "Welche Nachteile besitzt eine Kohlefaserrute gegenüber einer Glasfaserrute?",
-    option1: "Teurer, Blitzgefahr",
+    option1: "Die Rute ist wesentlich teurer und bei Gewitter eine Gefahr.",
     option2: "Dicker bei gleicher Länge",
     option3: "Schwerer, aber stabiler",
   },
@@ -2338,7 +2352,7 @@ export const quizQuestions: TQuestion[] = [
     id: 308,
     question:
       "Welche Vorteile besitzt eine Kohlefaserrute gegenüber einer Glasfaserrute?",
-    option1: "Leichter und steifer",
+    option1: "Die Rute ist wesentlich leichter und steifer.",
     option2: "Billiger und bruchfester",
     option3: "Steifer und schwerer",
   },
