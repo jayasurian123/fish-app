@@ -2360,7 +2360,7 @@ export const quizQuestions: TQuestion[] = [
     id: 309,
     question:
       "Warum sollte eine Angelrute nicht über das angegebene Wurfgewicht belastet werden?",
-    option1: "Bruchgefahr",
+    option1: "Es besteht Bruchgefahr für die Rute.",
     option2: "Wurfweite wird nicht erreicht",
     option3: "Rute verbiegt sich dauerhaft",
   },
@@ -2374,7 +2374,7 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 311,
     question: "Welche Funktion hat die Rücklaufsperre einer Rolle?",
-    option1: "Verhindert Rückwärtslauf des Rotors",
+    option1: "Sie verhindert das Rückwärtslaufen des Rotors.",
     option2: "Verhindert Schnurreißen beim Drill",
     option3: "Verhindert Verdrallungen",
   },
@@ -2389,8 +2389,9 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 313,
     question:
-      "Warum soll bei Friedfischangel das Vorfach schwächer als Hauptschnur sein?",
-    option1: "Um Totalverlust bei Hänger zu vermeiden",
+      "Weshalb sollte bei einer Friedfischangel die Tragkraft des Vorfaches geringer als die Tragkraft der Hauptschnur sein?",
+    option1:
+      "Um bei einem Hänger den Totalverlust der Angelmontage zu vermeiden.",
     option2: "Um große Fische sicher zu landen",
     option3: "Um Haken besser zu binden",
   },
@@ -2403,37 +2404,41 @@ export const quizQuestions: TQuestion[] = [
   },
   {
     id: 315,
-    question: "Was unterscheidet Wurmhaken von anderen Einfachhaken?",
-    option1: "Widerhaken am Schaft",
+    question:
+      "Wodurch unterscheidet sich der Wurmhaken von anderen Einfachhaken?",
+    option1: "Er besitzt zusätzlich am Schaft weitere Widerhaken.",
     option2: "Größerer Hakenbogen",
     option3: "Widerhaken zeigt nach außen",
   },
   {
     id: 316,
     question: "Welcher Grundsatz gilt beim Spinnangeln?",
-    option1: "Verführerische Köderführung = mehr Fangerfolg",
+    option1:
+      "Je verführerischer die Köderführung, desto größer die Aussicht auf Fangerfolg.",
     option2: "Größerer Köder = mehr Fangerfolg",
     option3: "Teurer Köder = mehr Fangerfolg",
   },
   {
     id: 317,
     question:
-      "Bei welchem Kunstköder ist Wirbel wegen Schnurdrall besonders wichtig?",
+      "Bei welchem Kunstköder sollte unbedingt ein Wirbel vorgeschaltet werden, da die Gefahr des Schnurdralles besonders hoch ist?",
     option1: "Blinker",
     option2: "Pilker",
     option3: "Streamer",
   },
   {
     id: 318,
-    question: "Worauf ist beim Kauf eines Unterfangkeschers zu achten?",
-    option1: "Bügelspannweite, Anklappsystem-Qualität",
+    question:
+      "Worauf sollte beim Kauf eines Unterfangkeschers besonders geachtet werden?",
+    option1:
+      "Auf die Bügelspannweite und die Qualität des evtl. Anklappsystems",
     option2: "Preis und Herstellerfirma",
     option3: "Kescherstocklänge und Netzfarbe",
   },
   {
     id: 319,
-    question: "Welche Aussage über „verbotene Fangmethoden“ ist richtig?",
-    option1: "Explosive/giftige Mittel verboten",
+    question: 'Welche Aussage über "verbotene Fangmethoden" ist richtig?',
+    option1: "Der Einsatz explodierender oder giftiger Mittel ist verboten.",
     option2: "Mai–Dez: keine verboten",
     option3: "Strom und Licht immer verboten",
   },
@@ -2455,7 +2460,8 @@ export const quizQuestions: TQuestion[] = [
     id: 322,
     question:
       "Worauf ist beim Angeln mit einer Kohlefaserrute unbedingt zu achten?",
-    option1: "Sie leitet Strom (nicht bei Gewitter verwenden!)",
+    option1:
+      "Sie leitet Strom (Keine elektrischen Leitungen damit berühren und nicht bei Gewitter verwenden!)",
     option2: "Sie bricht schnell",
     option3: "Sie fängt schlecht (nicht zum Hegefischen geeignet)",
   },
@@ -2463,21 +2469,22 @@ export const quizQuestions: TQuestion[] = [
     id: 323,
     question:
       "Was ist zu beachten, um eine unberingte Teleskoprute schonend zu behandeln?",
-    option1: "Spitze zuletzt einschieben beim Zusammenschieben",
+    option1: "Beim Zusammenschieben Spitze zuletzt einschieben.",
     option2: "Spitze zuletzt ausziehen beim Auseinanderziehen",
     option3: "Sitz der Endkappe prüfen beim Zusammenschieben",
   },
   {
     id: 324,
     question: 'Welche Merkmale hat die Rute mit einer "Spitzen-Aktion"?',
-    option1: "Steif im Rückgrat, Biegung nur an der Spitze",
+    option1: "Im Rückgrat steif, Biegung nur an der Spitze",
     option2: "Steif ab Griff, biegsam ab Mitte",
     option3: "Gleichmäßig biegsam von Griff bis Spitze",
   },
   {
     id: 325,
     question: 'Welche Merkmale hat die Rute mit einer "Mittenaktion"?',
-    option1: "Steif bis Mitte, biegsam ab Mitte",
+    option1:
+      "Im Rückgrat vom Rutengriff beginnend steif und ab Rutenmitte biegsam",
     option2: "Steif im Rückgrat, Biegung nur an der Spitze",
     option3: "Gleichmäßig biegsam von Griff bis Spitze",
   },
@@ -2491,22 +2498,23 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 327,
     question: "Wie entsteht ein Knoten mit höherer Fertigkeit?",
-    option1: "Durch mehr Windungen",
+    option1: "Durch Bindung mit einer größeren Anzahl von Windungen",
     option2: "Durch Maschinenfertigung mit einer Windung",
     option3: "Mit angerauter Schnur",
   },
   {
     id: 328,
     question:
-      "Was sollte bei einer Steckrute mit Rolle vor dem Angeln überprüft werden?",
-    option1: "Sitz der Verbindungen, Rolle und Befestigung",
+      "Was sollte bei einer Steckrute mit Rolle vor Beginn des Angelns überprüft werden?",
+    option1:
+      "Sitz der Steckverbindungen, die Funktionsfähigkeit der Rolle und deren Befestigung",
     option2: "Zielgenauigkeit mit drei Testwürfen",
     option3: "Nur Zugkraft und Schnurlänge",
   },
   {
     id: 329,
     question: "Welche Aufgabe haben Schnurlauf- oder Rutenringe?",
-    option1: "Sie sollen die Schnur führen",
+    option1: "Sie sollen die Schnur führen.",
     option2: "Sie verhindern Perückenbildung",
     option3: "Sie verhindern Verdrallung",
   },
@@ -2526,46 +2534,49 @@ export const quizQuestions: TQuestion[] = [
   },
   {
     id: 332,
-    question: "Welche Angelrolle ist besonders für Einsteiger geeignet?",
-    option1: "Stationärrolle",
+    question:
+      "Für welche Angelmethoden eignet sich die Stationärrolle besonders gut?",
+    option1:
+      "Sie eignet sich sehr gut für alle Fangmethoden, außer zum Flugangeln.",
     option2: "Multirolle",
     option3: "Fliegenrolle",
   },
   {
     id: 333,
     question: "Welche Posenart findet in tiefen Gewässern Verwendung?",
-    option1: "Lauf- oder Gleitpose",
+    option1: "Die Lauf- und Gleitpose",
     option2: "Feststehende Pose",
     option3: "Antennenpose",
   },
   {
     id: 334,
-    question: "Welche Posenart wird bei konstanten Tiefen verwendet?",
-    option1: "Feststehende Pose",
-    option2: "Gleitpose",
-    option3: "Antennenpose",
+    question:
+      "Welche Fische sollten mit der Schnurstärke 0,15 bis 0,25 mm (monofil) beangelt werden?",
+    option1: "Plötzen, Rotfedern, Güstern, Barsche",
+    option2: "Alle Fische ohne",
+    option3: "Hechte, Zander,",
   },
   {
     id: 335,
     question:
       "Welche Fische sollten mit der Schnurstärke 0,25 bis 0,35 mm (monofil) beangelt werden?",
     option1: "Karpfen, Aale, Bleie, Rapfen, Barben",
-    option2: "Fische mit Mindestmaß bis 15 cm",
-    option3: "Welse, Großhechte, Meeresfische",
+    option2: "Mindestmaß bzw. bis zu",
+    option3: "Großkarpfen, Aale, Rapfen,",
   },
   {
     id: 336,
     question:
-      "Welche Fische sollten mit der Schnurstärke 0,35 bis 0,45 mm beangelt werden?",
-    option1: "Hechte, Zander, Großkarpfen, Aale, Rapfen",
-    option2: "Hasel, Barbe",
-    option3: "Ukeleis, Plötzen, Rotfedern, Güstern, Aland",
+      "Welche Fische sollten mit der Schnurstärke 0,35 bis 0,45 mm (monofil) beangelt werden?",
+    option1: "Hechte, Zander, Groẞkarpfen, Aale, Rapfen",
+    option2: "25 cm Mindestmaß",
+    option3: "Quappen",
   },
   {
     id: 337,
     question:
-      "Welche Fische sollten mit der Schnurstärke 0,45 bis 0,60 mm beangelt werden?",
-    option1: "Welse, Groß-Hechte, Meeresfische (z. B. Groß-Dorsche, Heilbutt)",
+      "Welche Fische sollten mit der Schnurstärke 0,45 bis 0,60 mm (monofil) beangelt werden?",
+    option1: "Welse, Groß-Hechte, Meeresfische (z. B. Groß- Dorsche, Heilbutt)",
     option2: "Bleie, Giebel",
     option3: "Forellen, Barsche, Aale, Schleie",
   },
@@ -2580,7 +2591,7 @@ export const quizQuestions: TQuestion[] = [
   {
     id: 339,
     question: "Wodurch entsteht hauptsächlich der Schnurdrall?",
-    option1: "Durch stark wirbelnde Köder, die ohne Wirbel montiert sind",
+    option1: "Durch stark wirbelnde Köder, die ohne Wirbel montiert sind.",
     option2: "Durch die Benutzung von Stationärrollen",
     option3: "Durch das Angeln in Fließgewässern mit vielen Wirbeln",
   },
@@ -2632,15 +2643,17 @@ export const quizQuestions: TQuestion[] = [
   },
   {
     id: 346,
-    question: "Beeinträchtigen Schonhaken den Fangerfolg wesentlich?",
-    option1: "Nein, wenn die Schnur ständig gespannt ist.",
+    question:
+      "Darf beim Angeln auf Raubfisch nur mit Drillingshaken geangelt werden?",
+    option1: "Nein",
     option2: "Ja, weil die Fische sie schneller erkennen.",
     option3: "Ja, sie sind nicht scharf genug.",
   },
   {
     id: 347,
-    question: "Was ist beim Entfernen des Hakens zu beachten?",
-    option1: "Schonendes Lösen, eventuell mit Zange",
+    question: "Beeinträchtigen Schonhaken den Fangerfolg wesentlich?",
+    option1:
+      "Nein, wenn nach dem Anhieb die Angelschnur stets auf Spannung zum Fisch geführt wird.",
     option2: "Ruckartiges Herausziehen",
     option3: "Herausreißen mit Drill",
   },
